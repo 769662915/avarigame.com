@@ -1,11 +1,15 @@
-import BaseLayout from "@/components/basic-layout";
 import NotFoundView from "@/components/not-found-view";
+import { Providers } from "@/components/providers";
 import { routing } from "@/i18n/routing";
 
 export default function GlobalNotFound() {
   return (
-    <BaseLayout locale={routing.defaultLocale}>
-      <NotFoundView locale={routing.defaultLocale} title="Not Found" />
-    </BaseLayout>
+    <html lang={routing.defaultLocale}>
+      <body>
+        <Providers>
+          <NotFoundView locale={routing.defaultLocale} title="Not Found" />
+        </Providers>
+      </body>
+    </html>
   );
 }

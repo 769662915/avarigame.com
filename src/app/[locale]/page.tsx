@@ -1,5 +1,6 @@
 import dynamic from "next/dynamic";
 import { getTranslations } from "next-intl/server";
+import { Suspense } from "react";
 import {
   Box,
   Button,
@@ -35,19 +36,16 @@ interface Props {
   params: {
     locale: Locale;
   };
-  searchParams: Record<string, string>;
 }
 
 export default async function Page({
   params: { locale },
-  searchParams,
 }: Props) {
   const { brandDescription, brandTagline, brandWordmark } = getBrandContext();
   const allGames = await getGames(locale);
   const categories = await getCategories(locale);
   const t = await getTranslations({ locale, namespace: "Common" });
 
-  const channel = searchParams?.channel;
   const newGames = randomGames(allGames.length, 18).map((item) => allGames[item]).filter(Boolean);
   const topGames = randomGames(allGames.length, 18).map((item) => allGames[item]).filter(Boolean);
   const heroGames = randomGames(allGames.length, 3).map((item) => allGames[item]).filter(Boolean);
@@ -61,7 +59,9 @@ export default async function Page({
 
   return (
     <>
-      <Header categories={categories} />
+      <Suspense fallback={null}>
+        <Header categories={categories} />
+      </Suspense>
       <Container maxWidth="container.xl" px={{ base: 4, md: 6 }} py={{ base: 5, md: 6, lg: 7 }}>
         <VStack alignItems="stretch" gap={{ base: 5, md: 6 }}>
           <Box
@@ -183,7 +183,7 @@ export default async function Page({
                       <Button
                         key={category.id}
                         as="a"
-                        href={getTargetHref(locale, `/category/${category.alias}`, channel)}
+                        href={getTargetHref(locale, `/category/${category.alias}`)}
                         size="sm"
                         h="40px"
                         px={4}
@@ -236,7 +236,6 @@ export default async function Page({
                   <GameItem
                     data={heroGames[0]}
                     locale={locale}
-                    channel={channel}
                     variant="featured"
                     accent="#4CF3FF"
                   />
@@ -245,7 +244,6 @@ export default async function Page({
                   <GameItem
                     data={heroGames[1]}
                     locale={locale}
-                    channel={channel}
                     accent="#BCFF46"
                   />
                 </GridItem>
@@ -253,7 +251,6 @@ export default async function Page({
                   <GameItem
                     data={heroGames[2]}
                     locale={locale}
-                    channel={channel}
                     accent="#FFB25B"
                   />
                 </GridItem>
@@ -271,7 +268,6 @@ export default async function Page({
                     key={sliceIndex}
                     data={sliceGames}
                     locale={locale}
-                    channel={channel}
                     spanIndex={spans[sliceIndex]}
                     accent="#4CF3FF"
                   />
@@ -290,7 +286,6 @@ export default async function Page({
                     key={sliceIndex}
                     data={sliceGames}
                     locale={locale}
-                    channel={channel}
                     spanIndex={spans[sliceIndex]}
                     accent="#FF6B5B"
                   />
@@ -316,7 +311,7 @@ export default async function Page({
                 action={
                   <Button
                     as="a"
-                    href={getTargetHref(locale, `/category/${category.alias}`, channel)}
+                    href={getTargetHref(locale, `/category/${category.alias}`)}
                     variant="ghost"
                     size="sm"
                     color={theme.text}
@@ -356,7 +351,6 @@ export default async function Page({
                           key={sliceIndex}
                           data={sliceGames}
                           locale={locale}
-                          channel={channel}
                           spanIndex={spans[sliceIndex]}
                           accent={theme.accent}
                         />

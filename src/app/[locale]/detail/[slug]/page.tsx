@@ -2,6 +2,7 @@ import dynamic from "next/dynamic";
 import Image from "next/image";
 import { notFound } from "next/navigation";
 import { getTranslations } from "next-intl/server";
+import { Suspense } from "react";
 import { FaCirclePlay } from "react-icons/fa6";
 import {
   Box,
@@ -15,7 +16,7 @@ import {
   Text,
 } from "@chakra-ui/react";
 
-import { getCategories, getGames } from "@/actions";
+import { getCategories, getGames, getStaticLocales } from "@/actions";
 import Footer from "@/components/footer";
 import GameItem from "@/components/game-item";
 import Header from "@/components/header";
@@ -33,7 +34,21 @@ interface Props {
     locale: Locale;
     slug: string;
   };
-  searchParams: Record<string, string>;
+}
+
+export async function generateStaticParams() {
+  const locales = getStaticLocales();
+  const params = await Promise.all(
+    locales.map(async (locale) => {
+      const games = await getGames(locale);
+      return games.map((game) => ({
+        locale,
+        slug: game.id.toString(),
+      }));
+    })
+  );
+
+  return params.flat();
 }
 
 const getLikes = () => {
@@ -45,7 +60,6 @@ const getLikes = () => {
 
 export default async function Page({
   params: { locale, slug },
-  searchParams,
 }: Props) {
   const categories = await getCategories(locale);
   const allGames = await getGames(locale);
@@ -57,8 +71,6 @@ export default async function Page({
   }
 
   const category = categories.find((item) => item.id === game.categoryId);
-  const channel = searchParams?.channel;
-
   if (!category) {
     return null;
   }
@@ -74,7 +86,9 @@ export default async function Page({
 
   return (
     <>
-      <Header categories={categories} />
+      <Suspense fallback={null}>
+        <Header categories={categories} />
+      </Suspense>
       <Container maxWidth="container.xl" px={{ base: 4, md: 6 }} py={{ base: 5, md: 6, lg: 7 }}>
         <Stack spacing={{ base: 5, md: 6 }}>
           <Box
@@ -184,7 +198,7 @@ export default async function Page({
                     rounded="full"
                     as="a"
                     rel="noopener noreferrer"
-                    href={getTargetHref(locale, `/play/${slug}`, channel)}
+                    href={getTargetHref(locale, `/play/${slug}`)}
                     rightIcon={<FaCirclePlay />}
                     _hover={{
                       transform: "translateY(-2px)",
@@ -228,7 +242,6 @@ export default async function Page({
                   key={item.id}
                   data={item}
                   locale={locale}
-                  channel={channel}
                   accent={theme.accent}
                 />
               ))}

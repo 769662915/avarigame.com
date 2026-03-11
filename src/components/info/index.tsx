@@ -16,7 +16,7 @@ import { getTranslations } from "next-intl/server";
 import { ReactNode } from "react";
 
 import { Locale } from "@/i18n/routing";
-import { BRAND_NAME, getBrandContext } from "@/utils/brand";
+import { getBrandContext } from "@/utils/brand";
 
 const sectionCardStyles = {
   bg: "rgba(9, 18, 36, 0.9)",
@@ -27,18 +27,18 @@ const sectionCardStyles = {
 
 export default async function Info({ locale }: { locale: Locale }) {
   const t = await getTranslations({ locale, namespace: "Info" });
-  const { baseUrl } = getBrandContext();
+  const { brandName } = getBrandContext();
 
   const renderLink = (_text: string | ReactNode) => (
     <Link
       fontSize="inherit"
-      href={baseUrl}
+      href="/"
       color="brand.300"
       fontWeight={700}
       textDecoration="underline"
       textUnderlineOffset="4px"
     >
-      {BRAND_NAME}
+      {brandName}
     </Link>
   );
 
@@ -46,8 +46,8 @@ export default async function Info({ locale }: { locale: Locale }) {
     {
       key: "section1",
       title: t.rich("section1.title", {
-        hostname: baseUrl,
-        brandName: BRAND_NAME,
+        hostname: brandName,
+        brandName,
         tagname: renderLink,
       }),
       paragraphs: [
@@ -56,19 +56,19 @@ export default async function Info({ locale }: { locale: Locale }) {
         t("section1.paragraph3"),
         t("section1.paragraph4"),
         t("section1.paragraph5", {
-          brandName: BRAND_NAME,
+          brandName,
         }),
       ],
     },
     {
       key: "section2",
       title: t.rich("section2.title", {
-        hostname: baseUrl,
+        hostname: brandName,
         tagname: renderLink,
       }),
       paragraphs: [
         t.rich("section2.paragraph1", {
-          hostname: baseUrl,
+          hostname: brandName,
           tagname: renderLink,
         }),
         t("section2.paragraph2"),
@@ -87,22 +87,22 @@ export default async function Info({ locale }: { locale: Locale }) {
     {
       key: "section3",
       title: t.rich("section3.title", {
-        hostname: baseUrl,
+        hostname: brandName,
         tagname: renderLink,
       }),
       paragraphs: [
         t.rich("section3.paragraph1", {
-          hostname: baseUrl,
+          hostname: brandName,
           tagname: renderLink,
         }),
         t.rich("section3.paragraph2", {
-          hostname: baseUrl,
+          hostname: brandName,
           tagname: renderLink,
         }),
         t("section3.paragraph3"),
         t("section3.paragraph4"),
         t.rich("section3.paragraph5", {
-          hostname: baseUrl,
+          hostname: brandName,
           tagname: renderLink,
         }),
       ],

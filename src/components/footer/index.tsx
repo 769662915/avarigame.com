@@ -5,7 +5,7 @@ import { Box, Container, Flex, Stack, Text } from "@chakra-ui/react";
 import { getBrandContext } from "@/utils/brand";
 
 export default function Footer() {
-  const { brandName, brandTagline, hostname } = getBrandContext();
+  const { brandName, brandTagline } = getBrandContext();
 
   return (
     <Box
@@ -36,7 +36,7 @@ export default function Footer() {
               letterSpacing="0.32em"
               color="brand.300"
             >
-              {hostname}
+              {brandTagline}
             </Text>
             <Text color="whiteAlpha.960" fontWeight={700}>
               {brandName}

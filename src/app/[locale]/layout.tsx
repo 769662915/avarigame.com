@@ -1,6 +1,7 @@
 import { setRequestLocale } from "next-intl/server";
 import { notFound } from "next/navigation";
 import { PropsWithChildren } from "react";
+import { getStaticLocales } from "@/actions";
 import BaseLayout from "@/components/basic-layout";
 import { ADSENSE_CLIENT } from "@/configs";
 import { Locale, routing } from "@/i18n/routing";
@@ -10,6 +11,10 @@ import dynamic from "next/dynamic";
 const ElClick = dynamic(() => import("@/components/el-click/index"), { ssr: false })
 interface Props extends PropsWithChildren {
   params: { locale: Locale };
+}
+
+export function generateStaticParams() {
+  return getStaticLocales().map((locale) => ({ locale }));
 }
 
 export default async function LocaleLayout({

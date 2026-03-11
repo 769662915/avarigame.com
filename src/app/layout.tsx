@@ -1,12 +1,9 @@
 import type { Metadata } from "next";
 import type { PropsWithChildren } from "react";
 
-import { BRAND_DESCRIPTION, BRAND_NAME, getBaseUrl } from "@/utils/brand";
-
-const metadataBase = new URL(getBaseUrl());
+import { BRAND_DESCRIPTION, BRAND_NAME } from "@/utils/brand";
 
 export const metadata: Metadata = {
-  metadataBase,
   applicationName: BRAND_NAME,
   icons: {
     icon: "/favicon.ico",
@@ -20,7 +17,6 @@ export const metadata: Metadata = {
   description: BRAND_DESCRIPTION,
   openGraph: {
     type: "website",
-    url: metadataBase,
     siteName: BRAND_NAME,
     title: BRAND_NAME,
     description: BRAND_DESCRIPTION,

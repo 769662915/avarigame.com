@@ -11,7 +11,7 @@ export default function NotFoundView({
   locale: Locale;
   title: string;
 }) {
-  const { brandName, hostname } = getBrandContext();
+  const { brandName } = getBrandContext();
 
   return (
     <Container maxW="container.lg" px={{ base: 4, md: 6 }} py={{ base: 16, md: 24 }}>
@@ -55,7 +55,7 @@ export default function NotFoundView({
             {title}
           </Heading>
           <Text maxW="2xl" color="whiteAlpha.720">
-            {brandName} · {hostname}
+            {brandName}
           </Text>
           <Box>
             <Button

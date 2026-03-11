@@ -1,8 +1,9 @@
 import { notFound } from "next/navigation";
 import { getTranslations } from "next-intl/server";
+import { Suspense } from "react";
 import { Box, Container, Flex, SimpleGrid, Stack, Text } from "@chakra-ui/react";
 
-import { getCategories, getGames } from "@/actions";
+import { getCategories, getGames, getStaticLocales } from "@/actions";
 import Footer from "@/components/footer";
 import GameItem from "@/components/game-item";
 import GameList from "@/components/game-list";
@@ -18,12 +19,25 @@ interface Props {
     locale: Locale;
     slug: string;
   };
-  searchParams: Record<string, string>;
+}
+
+export async function generateStaticParams() {
+  const locales = getStaticLocales();
+  const params = await Promise.all(
+    locales.map(async (locale) => {
+      const categories = await getCategories(locale);
+      return categories.map((category) => ({
+        locale,
+        slug: category.alias,
+      }));
+    })
+  );
+
+  return params.flat();
 }
 
 export default async function Page({
   params: { locale, slug },
-  searchParams,
 }: Props) {
   const categories = await getCategories(locale);
   const allGames = await getGames(locale);
@@ -35,7 +49,6 @@ export default async function Page({
   }
 
   const theme = getCategoryTheme(category.alias);
-  const channel = searchParams?.channel;
   const allCategoryGames = allGames.filter((item) => item.categoryId === category.id);
   const categoryByGames = randomGames(allCategoryGames.length, 50)
     .map((item) => allCategoryGames[item])
@@ -43,7 +56,9 @@ export default async function Page({
 
   return (
     <>
-      <Header categories={categories} />
+      <Suspense fallback={null}>
+        <Header categories={categories} />
+      </Suspense>
       <Container maxWidth="container.xl" px={{ base: 4, md: 6 }} py={{ base: 5, md: 6, lg: 7 }}>
         <Stack spacing={{ base: 5, md: 6 }}>
           <Box
@@ -117,7 +132,6 @@ export default async function Page({
                       key={sliceIndex}
                       data={sliceGames}
                       locale={locale}
-                      channel={channel}
                       spanIndex={spans[sliceIndex]}
                       accent={theme.accent}
                     />
@@ -134,7 +148,6 @@ export default async function Page({
                     key={item.id}
                     data={item}
                     locale={locale}
-                    channel={channel}
                     accent={theme.accent}
                   />
                 ))}
