@@ -8,7 +8,8 @@
     "Games": "{category} Games",
     "Top": "Top",
     "New": "New",
-    "More": "More"
+    "More": "More",
+    "PrivacyPolicy": "Privacy Policy"
   },
   "NotFoundPage": {
     "Title": "Not Found"
@@ -45,6 +46,79 @@
       "paragraph4": "Step 3: Simply click on your chosen game to start playing – it’s that easy!",
       "paragraph5": "Step 4: Have fun! Whether you’re playing solo or teaming up with friends, endless entertainment awaits you at <tagname>{hostname}</tagname>.",
       "paragraph6": "Sign up today and let the adventure begin!"
+    }
+  },
+  "PrivacyPolicy": {
+    "metaTitle": "Privacy Policy",
+    "metaDescription": "Learn how AvariGame collects, uses, and protects information on avarigame.com, including cookies, advertising, analytics, and third-party game providers.",
+    "eyebrow": "Privacy & Data",
+    "title": "Privacy Policy for {brandName}",
+    "summary": "This policy explains what information we collect on {domain}, how we use it, and how cookies, advertising, analytics, and third-party game providers may process data when you browse the site or launch a game.",
+    "updatedLabel": "Last updated",
+    "updatedAt": "March 14, 2026",
+    "tocLabel": "On this page",
+    "cards": {
+      "websiteLabel": "Website",
+      "websiteDetail": "Free browser arcade and game discovery portal",
+      "contactLabel": "Privacy contact",
+      "contactDetail": "Use this email for access, correction, or deletion requests",
+      "servicesLabel": "Third-party services",
+      "servicesValue": "Ads, analytics, and game hosts",
+      "servicesDetail": "Includes Google AdSense, TikTok Pixel, and external game providers"
+    },
+    "sections": {
+      "overview": {
+        "title": "1. Scope",
+        "body1": "This Privacy Policy applies to your use of {domain}, including browsing game listings, reading content, and clicking through to launch games.",
+        "body2": "When you start a game, you may be redirected to or interact with third-party game providers. Their privacy practices are governed by their own policies."
+      },
+      "collect": {
+        "title": "2. Information We Collect",
+        "body1": "We may collect information you provide voluntarily, such as the contents of messages you send to {email}.",
+        "body2": "We also collect limited technical and usage information automatically, such as IP address, browser type, device details, language, referrer, page views, ad interactions, and approximate timestamps.",
+        "body3": "Cookies and similar technologies may be used to remember preferences, measure traffic, prevent abuse, and support advertising."
+      },
+      "use": {
+        "title": "3. How We Use Information",
+        "body1": "We use information to operate, maintain, secure, and improve {brandName}; to understand which pages and games are useful; and to diagnose performance issues.",
+        "body2": "We may also use information to localize content, detect abuse or fraud, comply with legal obligations, and measure the effectiveness of advertising or traffic sources."
+      },
+      "ads": {
+        "title": "4. Advertising, Analytics, and Third Parties",
+        "body1": "{brandName} uses third-party services that may collect information through cookies, pixels, or similar technologies.",
+        "body2": "Google AdSense may use cookies to show and measure personalized or contextual ads.",
+        "body3": "Tracking tools such as TikTok Pixel may measure visits, conversions, and campaign performance.",
+        "body4": "Game providers, embedded content, CDNs, and other third parties may collect data when you open a game or load their resources. We do not control their independent privacy practices."
+      },
+      "cookies": {
+        "title": "5. Cookies and Your Choices",
+        "body1": "Most browsers let you block, delete, or limit cookies through browser settings. Disabling cookies may affect some features, embedded games, or ad delivery.",
+        "body2": "You can also use device or browser privacy controls to reduce tracking where those tools are available."
+      },
+      "children": {
+        "title": "6. Children's Privacy",
+        "body1": "{brandName} is not intended to knowingly collect personal information from children under 13.",
+        "body2": "If you believe a child has provided personal information through the site, contact us at {email} and we will review the request."
+      },
+      "retention": {
+        "title": "7. Data Retention and Security",
+        "body1": "We keep information only for as long as reasonably necessary to operate the site, resolve disputes, enforce agreements, and satisfy legal obligations.",
+        "body2": "We use reasonable administrative and technical safeguards, but no internet transmission or storage system is completely secure."
+      },
+      "rights": {
+        "title": "8. Your Rights and Requests",
+        "body1": "Depending on where you live, you may have rights to request access, correction, deletion, or restriction of certain personal information.",
+        "body2": "To submit a privacy request, email {email}. We may ask for enough information to verify and process your request."
+      },
+      "changes": {
+        "title": "9. Changes to This Policy",
+        "body1": "We may update this Privacy Policy from time to time to reflect operational, legal, or regulatory changes.",
+        "body2": "When we make material updates, we will revise the \"Last updated\" date on this page."
+      },
+      "contact": {
+        "title": "10. Contact Us",
+        "body1": "If you have questions about this Privacy Policy or data handling on {domain}, contact {email}."
+      }
     }
   }
 }

@@ -16,11 +16,11 @@ export interface CategoryTheme {
   hero: string;
 }
 
-export const ADSENSE_CLIENT = "ca-pub-5694251034801452";
+export const ADSENSE_CLIENT = "ca-pub-3134621309166831";
 
 export const ADSENSE_SLOTS = {
-  homeBanner: "2548934105",
-  detailRecommend: "4217384783",
+  homeBanner: "6284681907",
+  detailRecommend: "8957747591",
 } as const;
 
 export const LOCALE_OPTIONS: Array<LocaleRecord> = [

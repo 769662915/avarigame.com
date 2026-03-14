@@ -158,7 +158,7 @@ export default async function Page({
           <Info locale={locale} />
         </Stack>
       </Container>
-      <Footer />
+      <Footer locale={locale} />
     </>
   );
 }

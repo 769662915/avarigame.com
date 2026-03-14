@@ -1,11 +1,16 @@
 import dayjs from "dayjs";
+import { getTranslations } from "next-intl/server";
 
-import { Box, Container, Flex, Stack, Text } from "@chakra-ui/react";
+import { Box, Container, Flex, Link as ChakraLink, Stack, Text } from "@chakra-ui/react";
 
+import { Locale } from "@/i18n/routing";
+import { getPathname } from "@/i18n/routing";
 import { getBrandContext } from "@/utils/brand";
 
-export default function Footer() {
-  const { brandName, brandTagline } = getBrandContext();
+export default async function Footer({ locale }: { locale: Locale }) {
+  const t = await getTranslations({ locale, namespace: "Common" });
+  const { brandName, brandEmail, brandTagline } = getBrandContext();
+  const privacyHref = getPathname({ locale, href: "/privacy-policy" });
 
   return (
     <Box
@@ -41,6 +46,30 @@ export default function Footer() {
             <Text color="whiteAlpha.960" fontWeight={700}>
               {brandName}
             </Text>
+            <Flex
+              direction={{ base: "column", sm: "row" }}
+              align={{ base: "center", sm: "center" }}
+              gap={{ base: 1.5, sm: 3 }}
+            >
+              <ChakraLink
+                href={privacyHref}
+                color="brand.300"
+                fontSize="sm"
+                fontWeight={600}
+                textDecoration="underline"
+                textUnderlineOffset="4px"
+              >
+                {t("PrivacyPolicy")}
+              </ChakraLink>
+              <ChakraLink
+                href={`mailto:${brandEmail}`}
+                color="whiteAlpha.760"
+                fontSize="sm"
+                _hover={{ color: "whiteAlpha.960" }}
+              >
+                {brandEmail}
+              </ChakraLink>
+            </Flex>
           </Stack>
           <Text textAlign="center" color="rgba(232, 242, 255, 0.82)">
             © {dayjs().format("YYYY")} {brandName}. {brandTagline}.

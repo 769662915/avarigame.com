@@ -365,7 +365,7 @@ export default async function Page({
           <Info locale={locale} />
         </VStack>
       </Container>
-      <Footer />
+      <Footer locale={locale} />
     </>
   );
 }
