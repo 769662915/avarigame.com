@@ -177,9 +177,14 @@ export default extendTheme({
         paddingBlock: "10px",
       },
       ".ad-placeholder[data-ad-ui-status='unfilled'] > ins": {
+        display: "none !important",
         height: "0 !important",
         minHeight: "0 !important",
         visibility: "hidden",
+      },
+      ".ad-placeholder[data-ad-ui-status='unfilled'] iframe": {
+        display: "none !important",
+        visibility: "hidden !important",
       },
       "#description a": {
         color: "brand.300",
