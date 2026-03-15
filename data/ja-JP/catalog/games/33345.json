@@ -1,0 +1,10 @@
+{
+  "id": "33345",
+  "name": "スネークライト",
+  "image": "https://img.gamemonetize.com/57ug1vptmf6cuq3218p0bd7fa9ai5dxz/512x384.jpg",
+  "gameUrl": "https://html5.gamemonetize.com/57ug1vptmf6cuq3218p0bd7fa9ai5dxz/",
+  "description": "スネークライトは、スネークを操作し、異なる軌道を移動する立方体を集め、障害物や衝突を避けるゲームです。",
+  "categoryId": 1,
+  "instructions": "矢印キーでスネークの動きを制御し、スペースバーで再開",
+  "tags": "クラシック, スネーク"
+}

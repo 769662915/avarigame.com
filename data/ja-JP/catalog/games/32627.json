@@ -1,0 +1,10 @@
+{
+  "id": "32627",
+  "name": "ザ・ファミリーエミュレーター",
+  "image": "https://img.gamemonetize.com/mxbhyq32iy62brxws76e6fhu80e1a97s/512x384.jpg",
+  "gameUrl": "https://html5.gamemonetize.com/mxbhyq32iy62brxws76e6fhu80e1a97s/",
+  "description": "これは、1980年代のコンピュータ——BBCマイクロコンピューターの完全なエミュレーションです。60以上のゲームがプロジェクトに収められています。インターネットから任意のBBCマイクロゲームディスクイメージをインポートすることができます（RokCoderリンクを使用）。プロジェクト内でBBCベースまたは6502アセンブリ言語で自分のプログラムを作成して保存することもできます！詳細は &lt;a href='https://www.rokcoder.com/bbcmicro/manual.html'&gt;https://www.rokcoder.com/bbcmicro/manual.html&lt;/a&gt; をご覧ください。",
+  "categoryId": 4,
+  "instructions": "ほとんどの操作はエミュレーター自体で学ぶことができます",
+  "tags": "1 Player, Obstacle, Platform, Puzzle, Simulation"
+}

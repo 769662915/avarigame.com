@@ -1,0 +1,157 @@
+{
+  "category": {
+    "id": 5,
+    "name": "マッチマンです",
+    "alias": "stickman",
+    "count": 300
+  },
+  "page": 6,
+  "totalPages": 13,
+  "totalItems": 300,
+  "items": [
+    {
+      "id": "17494",
+      "name": "スティックマージ",
+      "image": "https://img.gamemonetize.com/fayy3t63ulyf074trnts40an71cqjcci/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "17457",
+      "name": "スティックマンパルクール2",
+      "image": "https://img.gamemonetize.com/ybbprvnzp8v7kixeiid7aum3fbxdty96/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "17456",
+      "name": "ヴェックスマンパルクール",
+      "image": "https://img.gamemonetize.com/jds9ej3vwf8h30jmk1bygwu01piagt63/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "17454",
+      "name": "スティックマンランパルクール",
+      "image": "https://img.gamemonetize.com/p94c6azbdqwpipfht8wp1xtxsc10vcl2/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "17386",
+      "name": "ラグドールファイター",
+      "image": "https://img.gamemonetize.com/v72zk9xx8pvkzgdbvlzspqcvmcnawcjl/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "17212",
+      "name": "スティックマンパルクール3",
+      "image": "https://img.gamemonetize.com/0nmaftolhf5awg8o8hobe43pdgw2qogq/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "17038",
+      "name": "スティックマンパルクールズ",
+      "image": "https://img.gamemonetize.com/xcepjor1hywkvqoy3vlq7jf46q20zt46/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "16742",
+      "name": "ハロウィンピアノタイル",
+      "image": "https://img.gamemonetize.com/zua0ivz4wsudhz83qzhkh2sg5r6nh2bh/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "16568",
+      "name": "スティックマンデスラン",
+      "image": "https://img.gamemonetize.com/rt8qdnl052x3hfr075070frs36kd9tgp/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "16263",
+      "name": "チョッパーに到着",
+      "image": "https://img.gamemonetize.com/7bn3oi32gae156qwy0pkfh66kfkms21d/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "16130",
+      "name": "シャークワールド",
+      "image": "https://img.gamemonetize.com/h22zpmlgoufkr1k7nw35351ob34cxpzt/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "16056",
+      "name": "スティックファイター3D",
+      "image": "https://img.gamemonetize.com/vlskz7dtsxmpg34pu546de1wjng6ffob/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "15971",
+      "name": "スティック忍者ジャンプヒーローの楽しみ",
+      "image": "https://img.gamemonetize.com/v820qo2o4u177mg6xa5v511zpy4hx4sb/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "15943",
+      "name": "ハロウィンドレスアップゲーム",
+      "image": "https://img.gamemonetize.com/1d3prqpobfdc6d0j6e5h3tdb7bu3jfv4/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "15933",
+      "name": "フリーライダージャンプ",
+      "image": "https://img.gamemonetize.com/w3qdktapi7czrao6th7kpi8gqwxau1e8/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "15922",
+      "name": "スラップコンテスト",
+      "image": "https://img.gamemonetize.com/v7o6s7t59b2672ws7uccn90963zfvgr8/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "15765",
+      "name": "スティックマンフォールガイズ：ランニングレース",
+      "image": "https://img.gamemonetize.com/rxwor4vgwu67uc22758om5297vdmxqv5/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "15763",
+      "name": "フォールガイズソニック：ノックアウトロワイヤル",
+      "image": "https://img.gamemonetize.com/tcenm9zw11f87yyfylpqay90xewftsd3/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "15729",
+      "name": "フリップマスターホーム",
+      "image": "https://img.gamemonetize.com/f5djho7hqxguavlkrjbklvbmmgy248sg/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "15596",
+      "name": "スーパースティックマンファイトオールスターヒーロー",
+      "image": "https://img.gamemonetize.com/qbv1ya43ddnt5colk3jmmxwk1qasdi0o/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "15594",
+      "name": "スティックマンファイト：ドラゴンレジェンドバトル",
+      "image": "https://img.gamemonetize.com/qsk8nvwgk0cwz4tf6m1q6yo2rodarpdr/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "15593",
+      "name": "スティックマンファイトバトル - シャドウウォリアーズ",
+      "image": "https://img.gamemonetize.com/62c3vlawwn62mc8fzlpjc42h9novaq10/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "15592",
+      "name": "スティックマンファイターインフィニティ - スーパーアクションヒーローズ",
+      "image": "https://img.gamemonetize.com/pplbybpg1jxrqav6ei9nbstjqnvbp1qz/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "15497",
+      "name": "ワールドカップペナルティキックオフ",
+      "image": "https://img.gamemonetize.com/u2hymlhew0h5h8ba0fy1voy0y9lf17zb/512x384.jpg",
+      "categoryId": 5
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "category": {
+    "id": 2,
+    "name": "冒険です",
+    "alias": "adventure",
+    "count": 289
+  },
+  "page": 12,
+  "totalPages": 13,
+  "totalItems": 289,
+  "items": [
+    {
+      "id": "22501",
+      "name": "カートラッシュ - 3Dレーシングゲーム",
+      "image": "https://img.gamemonetize.com/0fuptujfya8fgxv9nvb8dwb0tqtbofnx/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "22491",
+      "name": "アニマル自動車修理工場",
+      "image": "https://img.gamemonetize.com/uzrl93p5qdsvinoqdcswvcibqljttlvg/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "22482",
+      "name": "ソコナンバー",
+      "image": "https://img.gamemonetize.com/dvt7hq1mp08hfyjvdf02p5mgm1wvaoxb/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "22441",
+      "name": "ボールソートカラー",
+      "image": "https://img.gamemonetize.com/pxx9sk8oa2z80p7rl8o1z8v5vwbplhbe/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "22403",
+      "name": "ノーブvsノーブ",
+      "image": "https://img.gamemonetize.com/hsr0lqjv7z2dqa8tupezhruy6854suq3/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "22397",
+      "name": "ブームプッシュ",
+      "image": "https://img.gamemonetize.com/bqeksh771ilb802lj76uta3m4s0qq0ff/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "22374",
+      "name": "縄跳び - 3Dスポーツゲーム",
+      "image": "https://img.gamemonetize.com/5zw8a3rbp8auddn2f15dgz488jqn9g3k/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "22373",
+      "name": "ノックラッシュ - 3Dシューティングゲーム",
+      "image": "https://img.gamemonetize.com/a84fgq9htsb57w45rxxr5bfrjg7uspob/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "22371",
+      "name": "タワーディフェンス：スーパーヒーローズ",
+      "image": "https://img.gamemonetize.com/sxtsodwbq4be0yi036hkggzkii8f1cy1/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "22322",
+      "name": "2048ビリヤード3D",
+      "image": "https://img.gamemonetize.com/fakww7w90bty9pg4szee0h6toa8fszqc/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "22272",
+      "name": "ターンオーバーマスター - ドライビングゲーム",
+      "image": "https://img.gamemonetize.com/aeygs3t3jlpweaeum797ulr1zxdnk0ai/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "22250",
+      "name": "フランシー",
+      "image": "https://img.gamemonetize.com/glb7omfdo74qgstw9hypiwtn1up4h9ym/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "22241",
+      "name": "ロボットカー緊急救助2",
+      "image": "https://img.gamemonetize.com/k1bhcu8zyfo0exa90z8v289a77w50184/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "22232",
+      "name": "スーパーレース3D",
+      "image": "https://img.gamemonetize.com/9xohw9clcze28tghvriy0s1jcy8zrc1o/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "22198",
+      "name": "ブレインマスターIQチャレンジ",
+      "image": "https://img.gamemonetize.com/x05jyfs9tf4x1fst6v9wnjlh22nx84at/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "22174",
+      "name": "農地と収穫ゲーム",
+      "image": "https://img.gamemonetize.com/lj4bi3eiq40an8almhnr5nmg1gs78c9t/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "22144",
+      "name": "レッドインポスターVSクルー - Among Us",
+      "image": "https://img.gamemonetize.com/z04i960cz1k19851nettxlclxxyi4zji/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "22117",
+      "name": "ルーフレールズオンライン3Dゲーム",
+      "image": "https://img.gamemonetize.com/cyt71w24pfsk11vac15ps4woee8s0lva/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "22116",
+      "name": "バスラッシュ - バスサーファー",
+      "image": "https://img.gamemonetize.com/42kr643i7zjf4ucq6ll8p51vy7rpdcfb/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "22079",
+      "name": "農地と収穫",
+      "image": "https://img.gamemonetize.com/q8pz1z5os72gap9euq61uidtb7u2vmq8/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "22071",
+      "name": "タングラムグリッドゲーム",
+      "image": "https://img.gamemonetize.com/wb6hpymrk0x4bcc7jd27hvefokl4v7gv/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "22068",
+      "name": "リトルパンダトラックチームゲーム",
+      "image": "https://img.gamemonetize.com/cah15kjjz2i9591vy7lqadh6a9xm05cq/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "22066",
+      "name": "2048ラン3D",
+      "image": "https://img.gamemonetize.com/z7os7btei3467tg9rfuzgkpl1pzegcv9/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "22046",
+      "name": "スリーリー・ハグリー・プレイタイム",
+      "image": "https://img.gamemonetize.com/aay2n8ghaqbdq7naxiyrxctjhs27mx2r/512x384.jpg",
+      "categoryId": 2
+    }
+  ]
+}

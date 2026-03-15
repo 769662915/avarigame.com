@@ -1,0 +1,157 @@
+{
+  "category": {
+    "id": 5,
+    "name": "Stickman",
+    "alias": "stickman",
+    "count": 300
+  },
+  "page": 4,
+  "totalPages": 13,
+  "totalItems": 300,
+  "items": [
+    {
+      "id": "25832",
+      "name": "Stick Duel Battle",
+      "image": "https://img.gamemonetize.com/dm15vv1aak9c1asfg49ji8s7iosbl6tu/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "25810",
+      "name": "Drunken Spin Punch",
+      "image": "https://img.gamemonetize.com/5q7tgblx6krhhrop9cvvo4wwxj82w0ta/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "25786",
+      "name": "Egg head",
+      "image": "https://img.gamemonetize.com/amgd5209h9vibi1rwxnafyu31fwma7wp/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "25600",
+      "name": "Stickman Bunny Hop Tricks",
+      "image": "https://img.gamemonetize.com/6o5quqwsbfcns5n9u1pm91ywlci6py63/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "25598",
+      "name": "Red Stickman vs Monster School",
+      "image": "https://img.gamemonetize.com/k2ksa2oskzf1xohh0f2snosfigwx5zwy/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "25597",
+      "name": "Stickman Archero Fight",
+      "image": "https://img.gamemonetize.com/olq15f2zemu1f6gto35fd13pmxnzqilm/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "25476",
+      "name": "Squid Game Deadflip",
+      "image": "https://img.gamemonetize.com/0f3p3y9hmos3rs2swmktzq3dz0kh9l9x/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "25280",
+      "name": "Imposter Smasher IO amusants",
+      "image": "https://img.gamemonetize.com/5bgkn3c1izt5dnf3cyqcqhat79c6bfgc/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "25201",
+      "name": "Stickman Climber",
+      "image": "https://img.gamemonetize.com/r6h0rueubew554237k9nr5v6n0jaorkd/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "25111",
+      "name": "Prison Gates",
+      "image": "https://img.gamemonetize.com/sl4b1jft5toksui8ogwb80a76xofkevt/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "25046",
+      "name": "HyperDoll",
+      "image": "https://img.gamemonetize.com/tm8sqyo84qlrk7fjnihg6tvx1pr41cnr/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "25019",
+      "name": "Stick Duel: The War",
+      "image": "https://img.gamemonetize.com/m1rme0e7z361bte5hid3bf2mnlodqfwa/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "24868",
+      "name": "Stick Warrior Hero Battle",
+      "image": "https://img.gamemonetize.com/bg00n551jqiaopwgoxl94cb7ump6p2lf/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "24747",
+      "name": "Squid Drunk 3D",
+      "image": "https://img.gamemonetize.com/ddkkbn4xx6qohy8jemwxw59w19m7rce6/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "24342",
+      "name": "Stickman Hook Animation",
+      "image": "https://img.gamemonetize.com/4c8hos7j7bg1tehtpkl4e8j7jk15487m/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "24247",
+      "name": "Stickman Hook Rescue",
+      "image": "https://img.gamemonetize.com/5xz3xp3p7trgm8yjbzputnalfnnefmx0/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "23810",
+      "name": "Shoot Z",
+      "image": "https://img.gamemonetize.com/tjxmsgjnys0ydxs9100dpqy9pt672aeo/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "23617",
+      "name": "Classic Hangman",
+      "image": "https://img.gamemonetize.com/0spxplc5t4uznpcsitu3oqj6drqqnzh5/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "23580",
+      "name": "Matchman PUBG",
+      "image": "https://img.gamemonetize.com/yazg95e824szfygrsoa73p70p59jurx0/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "22991",
+      "name": "Stickman Golf Super",
+      "image": "https://img.gamemonetize.com/tb8uo3r41mz8nhc3kh7puaegc7k65185/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "22473",
+      "name": "FNF: Pico VS Tankman",
+      "image": "https://img.gamemonetize.com/hgyefbfwu3nhqy76p5f4g6v7nsas4nph/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "22464",
+      "name": "Curvy Punch",
+      "image": "https://img.gamemonetize.com/fi43x6z1fap8mlplh1vdpod0ivf693fj/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "22455",
+      "name": "Stickman Fight",
+      "image": "https://img.gamemonetize.com/vqlbeetbbf92vkvo9lho6g7mc5dnn6oi/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "22385",
+      "name": "Stick To It!",
+      "image": "https://img.gamemonetize.com/gex4b6b3as69hgv3bsmdf2vlqdddukj2/512x384.jpg",
+      "categoryId": 5
+    }
+  ]
+}

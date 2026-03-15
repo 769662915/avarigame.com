@@ -1,0 +1,157 @@
+{
+  "category": {
+    "id": 1,
+    "name": "動作です",
+    "alias": "action",
+    "count": 296
+  },
+  "page": 6,
+  "totalPages": 13,
+  "totalItems": 296,
+  "items": [
+    {
+      "id": "30462",
+      "name": "ホームラッシュ ザ・フィッシュファイト",
+      "image": "https://img.gamemonetize.com/ap5dut3zw93jv7d9lobil3vzb9qivuw6/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "30461",
+      "name": "ウェストレンジファイト",
+      "image": "https://img.gamemonetize.com/9f7qkh40776qe0qg8sac6rdfxqy78rag/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "30437",
+      "name": "アントフロー",
+      "image": "https://img.gamemonetize.com/b1yo52tt3j7ddjz947m31yas14dnrcsw/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "30399",
+      "name": "ベガスシティギャングスター2024",
+      "image": "https://img.gamemonetize.com/aannaasrcot1y6q0g667wiu0se7uw0vt/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "30384",
+      "name": "ロードトレイントラックドライビング",
+      "image": "https://img.gamemonetize.com/5p2jc96vj1iob0u0gxy3bwimlg4uyu2v/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "30371",
+      "name": "フラッピーヘリコプター2プレイヤー",
+      "image": "https://img.gamemonetize.com/e7vkuajbnz1xyubq4y7sx3onnwdd8vri/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "30351",
+      "name": "フードヘッドファイターズ",
+      "image": "https://img.gamemonetize.com/95rpyg86xtlqy4a68ahmdzbs8sgrwmfr/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "30331",
+      "name": "ボールロールカラー2048",
+      "image": "https://img.gamemonetize.com/oywnmk73nvmuit0lg4cf1tzrnqz2hhix/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "30314",
+      "name": "シティアイドルカウンターテロリスト",
+      "image": "https://img.gamemonetize.com/j8bfd7sm70mulmgjpz4p42zxmziwo1j6/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "30295",
+      "name": "ドゥイトアップ！",
+      "image": "https://img.gamemonetize.com/uzfcnljj41esn7da6t7drxsm49542qcl/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "30261",
+      "name": "デジタルサーカスランアンドシュート",
+      "image": "https://img.gamemonetize.com/rs8faex0q7ezzowpiebs6sc38p6694qu/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "30253",
+      "name": "デジタルサーカスタウンビルダー",
+      "image": "https://img.gamemonetize.com/0dsaue1r2dagl67ozh94a6kl1ixpb6yh/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "30214",
+      "name": "ボックスジャーニー",
+      "image": "https://img.gamemonetize.com/ishxj3g645r21row09pmg5pz88qhgcc7/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "30190",
+      "name": "デュエルタイム",
+      "image": "https://img.gamemonetize.com/fh2qwe2glfh2n9pqdo995mi1p8fe66ch/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "30184",
+      "name": "サークルシューターマスター",
+      "image": "https://img.gamemonetize.com/a858jiqhd9wu39oh88ckoc8alcydiw4k/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "30178",
+      "name": "デジタルサーカスかくれんぼ",
+      "image": "https://img.gamemonetize.com/6c2s2pyxe65icdkse5t4svr0ihact3yi/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "30149",
+      "name": "ラクーンリテール",
+      "image": "https://img.gamemonetize.com/uarwfpfzlcz414mq41kf3g82b5mpwxy1/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "30145",
+      "name": "ビルダーの決闘",
+      "image": "https://img.gamemonetize.com/hhqdm1lz6isab49dpaaaecxxkr465hs0/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "30116",
+      "name": "フルーツサバイバー",
+      "image": "https://img.gamemonetize.com/8wa28ov2va942vruzbs1nhsb677t9xek/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "30102",
+      "name": "隠れる黄色いモンスターサバイバー",
+      "image": "https://img.gamemonetize.com/cq9g5sy0znk698z5g2cveytmvootezvl/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "30083",
+      "name": "危険な部屋",
+      "image": "https://img.gamemonetize.com/znwwsrbuw2zmgopa9a3m7obtil0tlqyg/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "30069",
+      "name": "フラッグウォー",
+      "image": "https://img.gamemonetize.com/myppy1v163f8jyz8krwxw15r9q9dr3r9/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "30063",
+      "name": "アングリーゴートリベンジHTML5",
+      "image": "https://img.gamemonetize.com/na0ipe33nzdxal7krux7bp8mkch2kwsw/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "30059",
+      "name": "スーパーヒーロー2023",
+      "image": "https://img.gamemonetize.com/jz7vv2ffyaeddghppumvm6la0bjov1i6/512x384.jpg",
+      "categoryId": 1
+    }
+  ]
+}

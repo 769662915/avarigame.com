@@ -1,5 +1,5 @@
 import { Locale, getPathname } from "@/i18n/routing";
-import { Games } from "@/services/data";
+import { GameCardRecord } from "@/services/data";
 
 const GAME_DESCRIPTION_NOISE =
   /\s*(?:Website Developer|Web Dev|Developed|ウェブサイト開発者|ウェブ開発)(?:\s*(?:&lt;a\b[\s\S]*?&lt;\/a&gt;|<a\b[\s\S]*?<\/a>|https?:\/\/\S+))?\s*/gi;
@@ -46,7 +46,7 @@ export const randomGames = (len: number, total: number) => {
   return array.sort(() => 0.5 - Math.random()).slice(0, total);
 };
 
-export const splitGames = (games: Games) => {
+export const splitGames = <T extends GameCardRecord>(games: T[]) => {
   const destGames = [];
   const queue = [...games];
 

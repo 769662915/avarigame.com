@@ -1,5 +1,5 @@
 import { Locale } from "@/i18n/routing";
-import { GameRecord } from "@/services/data";
+import { GameCardRecord } from "@/services/data";
 import { getTargetHref } from "@/utils";
 import { AspectRatio, Box, Heading, LinkBox, LinkOverlay } from "@chakra-ui/react";
 import Image from "next/image";
@@ -11,7 +11,7 @@ const GameItem = ({
   variant = "default",
   accent = "#4CF3FF",
 }: {
-  data: GameRecord;
+  data: GameCardRecord;
   locale: Locale;
   channel?: string;
   variant?: "default" | "featured";

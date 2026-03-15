@@ -1,0 +1,25 @@
+{
+  "category": {
+    "id": 3,
+    "name": "男子です",
+    "alias": "boys",
+    "count": 2
+  },
+  "page": 1,
+  "totalPages": 1,
+  "totalItems": 2,
+  "items": [
+    {
+      "id": "27930",
+      "name": "ジェムストーンワールド",
+      "image": "https://img.gamemonetize.com/btv9rtruojmevqcy5bco1fej64xkyu42/512x384.jpg",
+      "categoryId": 3
+    },
+    {
+      "id": "24838",
+      "name": "トレインズ.io 3Dゲーム",
+      "image": "https://img.gamemonetize.com/x6xllus6rl5cmuuv5mvf5c1caskepgob/512x384.jpg",
+      "categoryId": 3
+    }
+  ]
+}

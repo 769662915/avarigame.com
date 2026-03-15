@@ -1,0 +1,85 @@
+{
+  "category": {
+    "id": 4,
+    "name": "Shooting",
+    "alias": "shooting",
+    "count": 300
+  },
+  "page": 13,
+  "totalPages": 13,
+  "totalItems": 300,
+  "items": [
+    {
+      "id": "28214",
+      "name": "Slime Invader",
+      "image": "https://img.gamemonetize.com/wc373ue5qerdn4c1e5l6b8mhv4iruwrd/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "28140",
+      "name": "Bakery Protection",
+      "image": "https://img.gamemonetize.com/bsyo5m019rwhqn2zoqfi2i6otaxmrn6c/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "28124",
+      "name": "Zombie Attack",
+      "image": "https://img.gamemonetize.com/vm7dqkz8yrnwyinf1srexxstjno7ybp2/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "28106",
+      "name": "Zombie Apocalypse Zombie Z HTML5",
+      "image": "https://img.gamemonetize.com/xnhne2f3ovef6xqyra18lgscula9felk/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "28086",
+      "name": "Warrior Survival.io",
+      "image": "https://img.gamemonetize.com/eitm2ciil0yavsyfoiydtas8db1ly065/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "28074",
+      "name": "Best battle Cover Royale",
+      "image": "https://img.gamemonetize.com/wd4119shme4h2345szt6s85bogkb0od7/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "28062",
+      "name": "Infiltration of the Police Base",
+      "image": "https://img.gamemonetize.com/4pyqsv8tza0rortbh1doe9ho3ebpyw3v/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "28061",
+      "name": "Human-Evolution-Game",
+      "image": "https://img.gamemonetize.com/pvndracecbqk9p32qmlu2djp1tueo35u/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "28060",
+      "name": "Rocket-vehicle-Online",
+      "image": "https://img.gamemonetize.com/f50f4ubbk6ad2ec1p4drdzs5d4sqxqt8/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "28044",
+      "name": "Angry Penguins",
+      "image": "https://img.gamemonetize.com/nfyey4nn463uwvduzetqlockoj6l7p67/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "28042",
+      "name": "Counter Craft 3 Zombies",
+      "image": "https://img.gamemonetize.com/lfkxru4fpeqgj0d69m8kju5n8r8sj7js/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "28033",
+      "name": "Air Hockey - Classic",
+      "image": "https://img.gamemonetize.com/0md3gt8ahk982d7xdoeqx6dn2dxkbr0k/512x384.jpg",
+      "categoryId": 4
+    }
+  ]
+}

@@ -1,6 +1,5 @@
 import dynamic from "next/dynamic";
 import Image from "next/image";
-import { notFound } from "next/navigation";
 import { getTranslations } from "next-intl/server";
 import { Suspense } from "react";
 import { FaCirclePlay } from "react-icons/fa6";
@@ -8,7 +7,6 @@ import {
   Box,
   Button,
   Container,
-  Flex,
   HStack,
   SimpleGrid,
   Stack,
@@ -16,7 +14,13 @@ import {
   Text,
 } from "@chakra-ui/react";
 
-import { getCategories, getGames, getStaticLocales } from "@/actions";
+import {
+  getCategories,
+  getCategoryPage,
+  getGameDetail,
+  getRouteManifest,
+  getStaticLocales,
+} from "@/actions";
 import Footer from "@/components/footer";
 import GameItem from "@/components/game-item";
 import Header from "@/components/header";
@@ -25,7 +29,7 @@ import SectionShell from "@/components/section-shell";
 import StarRating from "@/components/star-rating";
 import { ADSENSE_CLIENT, ADSENSE_SLOTS, getCategoryTheme } from "@/configs";
 import { Locale } from "@/i18n/routing";
-import { getTargetHref, randomGames, sanitizeGameDescription } from "@/utils";
+import { getTargetHref, sanitizeGameDescription } from "@/utils";
 
 const ElTemplate = dynamic(() => import("@/components/el-temlplate"), { ssr: false });
 
@@ -40,10 +44,11 @@ export async function generateStaticParams() {
   const locales = getStaticLocales();
   const params = await Promise.all(
     locales.map(async (locale) => {
-      const games = await getGames(locale);
-      return games.map((game) => ({
+      const routes = await getRouteManifest(locale);
+
+      return routes.detailIds.map((id) => ({
         locale,
-        slug: game.id.toString(),
+        slug: id,
       }));
     })
   );
@@ -61,14 +66,11 @@ const getLikes = () => {
 export default async function Page({
   params: { locale, slug },
 }: Props) {
-  const categories = await getCategories(locale);
-  const allGames = await getGames(locale);
+  const [categories, game] = await Promise.all([
+    getCategories(locale),
+    getGameDetail(locale, slug),
+  ]);
   const t = await getTranslations({ locale, namespace: "Common" });
-  const game = allGames.find((item) => item.id.toString() === slug);
-
-  if (!game) {
-    return notFound();
-  }
 
   const category = categories.find((item) => item.id === game.categoryId);
   if (!category) {
@@ -77,12 +79,10 @@ export default async function Page({
 
   const theme = getCategoryTheme(category.alias);
   const description = sanitizeGameDescription(game.description);
-  const categoryByGames = allGames.filter(
-    (item) => item.categoryId === category.id && item.id.toString() !== slug
-  );
-  const typeGames = randomGames(categoryByGames.length, 18)
-    .map((item) => categoryByGames[item])
-    .filter(Boolean);
+  const recommendationPage = await getCategoryPage(locale, category.alias, 1);
+  const typeGames = (recommendationPage?.items ?? [])
+    .filter((item) => item.id !== slug)
+    .slice(0, 18);
 
   return (
     <>

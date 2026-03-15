@@ -18,7 +18,7 @@ import {
   VStack,
 } from "@chakra-ui/react";
 
-import { getCategories, getGames } from "@/actions";
+import { getCategories, getGameDetail, getHomeData } from "@/actions";
 import Footer from "@/components/footer";
 import GameItem from "@/components/game-item";
 import GameList from "@/components/game-list";
@@ -27,7 +27,7 @@ import Info from "@/components/info";
 import SectionShell from "@/components/section-shell";
 import { ADSENSE_CLIENT, ADSENSE_SLOTS, getCategoryTheme, LOCALE_OPTIONS } from "@/configs";
 import { Locale } from "@/i18n/routing";
-import { getTargetHref, randomGames, splitGames } from "@/utils";
+import { getTargetHref, splitGames } from "@/utils";
 import { getBrandContext } from "@/utils/brand";
 
 const ElTemplate = dynamic(() => import("@/components/el-temlplate"), { ssr: false });
@@ -42,19 +42,35 @@ export default async function Page({
   params: { locale },
 }: Props) {
   const { brandDescription, brandTagline, brandWordmark } = getBrandContext();
-  const allGames = await getGames(locale);
-  const categories = await getCategories(locale);
+  const [categories, homeData] = await Promise.all([
+    getCategories(locale),
+    getHomeData(locale),
+  ]);
   const t = await getTranslations({ locale, namespace: "Common" });
+  const heroGames = await Promise.all(
+    homeData.heroGameIds.map((id) => getGameDetail(locale, id))
+  );
+  const categoryMap = new Map(categories.map((category) => [category.alias, category]));
+  const featuredSections = homeData.featuredCategories
+    .map((section) => {
+      const category = categoryMap.get(section.alias);
 
-  const newGames = randomGames(allGames.length, 18).map((item) => allGames[item]).filter(Boolean);
-  const topGames = randomGames(allGames.length, 18).map((item) => allGames[item]).filter(Boolean);
-  const heroGames = randomGames(allGames.length, 3).map((item) => allGames[item]).filter(Boolean);
+      if (!category || section.items.length === 0) {
+        return null;
+      }
+
+      return {
+        category,
+        items: section.items,
+      };
+    })
+    .filter(Boolean);
 
   const stats = [
     { label: t("Category"), value: categories.length },
     { label: t("Locales"), value: LOCALE_OPTIONS.length },
-    { label: t("Top"), value: topGames.length },
-    { label: t("New"), value: newGames.length },
+    { label: t("Top"), value: homeData.topGameCards.length },
+    { label: t("New"), value: homeData.newGameCards.length },
   ];
 
   return (
@@ -260,7 +276,7 @@ export default async function Page({
 
           <SectionShell id="new-games" title={t("Games", { category: t("New") })} accent="#4CF3FF">
             <SimpleGrid columns={{ base: 1, md: 3 }} gap={{ base: 3, md: 4, lg: 6 }}>
-              {splitGames(newGames).map((sliceGames, sliceIndex) => {
+              {splitGames(homeData.newGameCards).map((sliceGames, sliceIndex) => {
                 const spans = [0, 3, 1];
 
                 return (
@@ -278,7 +294,7 @@ export default async function Page({
 
           <SectionShell id="top-games" title={t("Games", { category: t("Top") })} accent="#FF6B5B">
             <SimpleGrid columns={{ base: 1, md: 3 }} gap={{ base: 3, md: 4, lg: 6 }}>
-              {splitGames(topGames).map((sliceGames, sliceIndex) => {
+              {splitGames(homeData.topGameCards).map((sliceGames, sliceIndex) => {
                 const spans = [0, 3, 1];
 
                 return (
@@ -294,12 +310,15 @@ export default async function Page({
             </SimpleGrid>
           </SectionShell>
 
-          {categories.map((category, categoryIndex) => {
-            const theme = getCategoryTheme(category.alias);
-            const games = allGames.filter((game) => game.categoryId === category.id);
-            const gamesList = randomGames(games.length, 25).map((item) => games[item]).filter(Boolean);
+          {featuredSections.map((section, categoryIndex) => {
+            if (!section) {
+              return null;
+            }
 
-            if (!gamesList.length) {
+            const { category, items } = section;
+            const theme = getCategoryTheme(category.alias);
+
+            if (!items.length) {
               return null;
             }
 
@@ -337,11 +356,11 @@ export default async function Page({
                     </Text>
                     <Text color="whiteAlpha.540">/</Text>
                     <Text fontSize="sm" color="whiteAlpha.620">
-                      {games.length}
+                      {category.count}
                     </Text>
                   </Flex>
                   <SimpleGrid columns={{ base: 1, md: 3 }} gap={{ base: 3, md: 4, lg: 6 }}>
-                    {splitGames(gamesList.slice(0, 18)).map((sliceGames, sliceIndex) => {
+                    {splitGames(items.slice(0, 18)).map((sliceGames, sliceIndex) => {
                       let spans = [0, 1, 3];
                       if (categoryIndex % 2) {
                         spans = [1, 3, 4];

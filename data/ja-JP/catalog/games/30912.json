@@ -1,0 +1,10 @@
+{
+  "id": "30912",
+  "name": "バブルシューター：クラシックマッチ3",
+  "image": "https://img.gamemonetize.com/4imkqhrztw8meqi836243v4lrnm4wpcv/512x384.jpg",
+  "gameUrl": "https://html5.gamemonetize.com/4imkqhrztw8meqi836243v4lrnm4wpcv/",
+  "description": "バブルを撃って、同じ色のバブルを3つ以上組み合わせてください。組み合わせたバブルの数が多いほど、得られるポイントも多くなります。組み合わせが成立しなかった場合はストライクとなります。数回のストライク後には、新しい一列のバブルが現れます。バブルが画面の下まで達するとゲームが終了します。",
+  "categoryId": 4,
+  "instructions": "コンピューターでは、ポインターと左マウスボタンを使って正しい場所にバブルを撃ちます。モバイルデバイスでは、画面上で指をタップします",
+  "tags": "Ball, Ballon, Bubble, Bubble Shooter, Logic, Logical, Match 3, Match-3, Match3, Matching, Pinball, Shoot, Shooter, Shooting"
+}

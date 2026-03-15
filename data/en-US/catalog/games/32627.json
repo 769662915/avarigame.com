@@ -1,0 +1,10 @@
+{
+  "id": "32627",
+  "name": "The Family Emulator",
+  "image": "https://img.gamemonetize.com/mxbhyq32iy62brxws76e6fhu80e1a97s/512x384.jpg",
+  "gameUrl": "https://html5.gamemonetize.com/mxbhyq32iy62brxws76e6fhu80e1a97s/",
+  "description": "This is a full emulation of a computer from the 1980s - the BBC Microcomputer. Over 60 games have been compressed to fit them into the project. You can import any BBC Micro game disk image from the internet (using the RokCoder link). You can even make and save your own programs in BBC Basic or 6502 assembly language from within the project! Read more &lt;a href='https://www.rokcoder.com/bbcmicro/manual.html'&gt;https://www.rokcoder.com/bbcmicro/manual.html&lt;/a&gt;",
+  "categoryId": 4,
+  "instructions": "Most Control can be learn through the Emulator itself",
+  "tags": "1 Player, Obstacle, Platform, Puzzle, Simulation"
+}

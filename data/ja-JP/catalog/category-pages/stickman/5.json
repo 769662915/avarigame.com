@@ -1,0 +1,157 @@
+{
+  "category": {
+    "id": 5,
+    "name": "マッチマンです",
+    "alias": "stickman",
+    "count": 300
+  },
+  "page": 5,
+  "totalPages": 13,
+  "totalItems": 300,
+  "items": [
+    {
+      "id": "22328",
+      "name": "スティックマンブリッジコンストラクター",
+      "image": "https://img.gamemonetize.com/yhxbomastpavyk2shmrp2pdo3wpsxoea/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "22180",
+      "name": "スティックマンデュエルバトル",
+      "image": "https://img.gamemonetize.com/3rk4otwaf8um65l46h1w1ot6s3jw9n9u/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "21596",
+      "name": "スティックマンスナイパー：タップでキル",
+      "image": "https://img.gamemonetize.com/t2rb13zf55lngb76b1xbqrk9164xzkci/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "21345",
+      "name": "スティックマンキラー：トップガンショット",
+      "image": "https://img.gamemonetize.com/3iguufxew1w7kbzroz77yv9r2mrap7fe/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "21279",
+      "name": "スティックマンファイタートレーニングキャンプ",
+      "image": "https://img.gamemonetize.com/l32hwgcoe7hwdg7eh4iij67059amfpzg/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "21278",
+      "name": "スティックマンボクシングKOチャンピオン",
+      "image": "https://img.gamemonetize.com/6tmp9phczxm9yfyona4ntvjrnvd70huc/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "20792",
+      "name": "スティックマンボクシングKO",
+      "image": "https://img.gamemonetize.com/dmzl9eimmp3oubqzq2ses7kh0rda9sbp/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "20735",
+      "name": "スティックマンファイター：エピックバトル",
+      "image": "https://img.gamemonetize.com/p27n60wut6rqymgjr3um08eoy0cg3ru6/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "20732",
+      "name": "ラグドールヒーローズウォー",
+      "image": "https://img.gamemonetize.com/h5e7v7g9nrzukc410sepq1nll5gpvuun/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "20245",
+      "name": "ドデルウォリアー2D",
+      "image": "https://img.gamemonetize.com/vspsvzchmktsvp89x26dc7u039cq0hx7/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "20175",
+      "name": "スティックマンフライ",
+      "image": "https://img.gamemonetize.com/4ywlg1t7p7auy29j5340wuqfttu763o0/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "20136",
+      "name": "セリアススティックネス",
+      "image": "https://img.gamemonetize.com/6ig9ljcov6odvhvd46nbp42bcoq8unfa/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "19974",
+      "name": "スティックマンシャドウファイター",
+      "image": "https://img.gamemonetize.com/r8bnwrkp0ne1lu6nqnc6h0m61gei9ttu/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "19827",
+      "name": "456ミニマルバブルシューター",
+      "image": "https://img.gamemonetize.com/38mkqmjp4j4dcznqgqs0084iosnvzvcd/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "19654",
+      "name": "スティックマンVSエイリアン",
+      "image": "https://img.gamemonetize.com/r7drhkl4vp5ip0107pz9rtd6qgb9hp5t/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "19569",
+      "name": "スティックマンドラゴンボールファイト - スーパースティックウォリアーズ",
+      "image": "https://img.gamemonetize.com/f0hbsg1m7jfual8m1e8gtwqmu286chsr/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "19471",
+      "name": "スパイショットレーザーバウンス",
+      "image": "https://img.gamemonetize.com/9e2ca7f45zgk7nqcybwxtr771qo0rhgw/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "19305",
+      "name": "スティックウォー アドベンチャー",
+      "image": "https://img.gamemonetize.com/47exn8zffr5x2qqbq83ywfcbsk60q4sz/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "18812",
+      "name": "スティックマンアーチャー",
+      "image": "https://img.gamemonetize.com/a4aoxbnnozyaokbtif3wpdaho9ymoe7t/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "18689",
+      "name": "スティックマンシティバトル",
+      "image": "https://img.gamemonetize.com/ycr80m0r7urjhq8rnjh6f00oi4s8gvug/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "18582",
+      "name": "タクティカルスクワッドスティックマン",
+      "image": "https://img.gamemonetize.com/3x78cxj7rteyfv6l4fo0m104tee36dtk/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "18275",
+      "name": "アーミー・ザ・レジスタンス",
+      "image": "https://img.gamemonetize.com/z5lfi4ddwo5brn4saghigc5oonpkpktv/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "18246",
+      "name": "スティックマンピンポンマッチ",
+      "image": "https://img.gamemonetize.com/nrvq1ezin78m7vtbhiebwlobtbzrwji3/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "17762",
+      "name": "アヴォイドユーディング",
+      "image": "https://img.gamemonetize.com/yizrneany65nygcz9q3f9o25exoa480a/512x384.jpg",
+      "categoryId": 5
+    }
+  ]
+}

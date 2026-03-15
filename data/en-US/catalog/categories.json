@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Action",
+    "alias": "action",
+    "count": 300
+  },
+  {
+    "id": 2,
+    "name": "Adventure",
+    "alias": "adventure",
+    "count": 300
+  },
+  {
+    "id": 3,
+    "name": "Boys",
+    "alias": "boys",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Shooting",
+    "alias": "shooting",
+    "count": 300
+  },
+  {
+    "id": 5,
+    "name": "Stickman",
+    "alias": "stickman",
+    "count": 300
+  }
+]

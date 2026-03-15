@@ -1,0 +1,10 @@
+{
+  "id": "32946",
+  "name": "Carnot Game   Casual Physics",
+  "image": "https://img.gamemonetize.com/a8birtsbz2g4vwgeh1smsomlr9rwpoic/512x384.jpg",
+  "gameUrl": "https://html5.gamemonetize.com/a8birtsbz2g4vwgeh1smsomlr9rwpoic/",
+  "description": "Carnot Game Description Carnot Game is an interactive game based on the Carnot Cycle, where the player must alternate between three thermal sources (hot, insulator, and cold) to maximize the work done on the piston of a cylinder. The goal is to keep the piston operating in the ideal Carnot cycle, making the transitions between sources at the right time to avoid the cylinder exploding or freezing. The closer the player is to the Carnot cycle, the higher their score and progress.",
+  "categoryId": 1,
+  "instructions": "The player must click the button to switch between the thermal sources of the system remembering to make the transitions at the right moments to avoid the piston jamming or the cylinder exploding The Carnot cycle consists of four thermodynamic processes",
+  "tags": "3D, Educational, Hypercasual, onetouch, Physics, Science, Simulation, Simulator"
+}

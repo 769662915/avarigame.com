@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "build:catalog": "node scripts/build-catalog.mjs",
+    "predev": "npm run build:catalog",
+    "prebuild": "npm run build:catalog",
     "dev": "next dev",
     "build": "next build",
     "start": "next start --port 3336",

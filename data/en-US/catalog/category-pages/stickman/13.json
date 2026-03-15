@@ -1,0 +1,85 @@
+{
+  "category": {
+    "id": 5,
+    "name": "Stickman",
+    "alias": "stickman",
+    "count": 300
+  },
+  "page": 13,
+  "totalPages": 13,
+  "totalItems": 300,
+  "items": [
+    {
+      "id": "1880",
+      "name": "Clash Of Stickman Warrior",
+      "image": "https://img.gamemonetize.com/8io41csob4hgrw0amj25lqms0ce73anc/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "1873",
+      "name": "Stick Soldier",
+      "image": "https://img.gamemonetize.com/3hpeoxayy14qfpv0evqm00rbdadij4cm/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "1791",
+      "name": "Stickman Fighter: Space War",
+      "image": "https://img.gamemonetize.com/1v7b0ohoudwo187vdpbkfds58dt319z2/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "1788",
+      "name": "Stickman Ninja Warriors",
+      "image": "https://img.gamemonetize.com/kfehmd1vmr9c2l9n72shvibrqbjejv33/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "1755",
+      "name": "Mr Bow",
+      "image": "https://img.gamemonetize.com/sinzont82bnqz8a697g4biossp6wrfsk/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "1709",
+      "name": "StickMan Team Force",
+      "image": "https://img.gamemonetize.com/wdwndlx5wn7lyptgc8hck6drcfte2miz/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "1469",
+      "name": "XMAS Wheelie",
+      "image": "https://img.gamemonetize.com/ayk2aqpgn246yfncnu1vxd3h7ahxlyfw/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "1466",
+      "name": "Wheelie Bike",
+      "image": "https://img.gamemonetize.com/0x8t0mbhij0qu4bal4787s9jo5bcjpuj/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "1288",
+      "name": "Stickman Sniper 3",
+      "image": "https://img.gamemonetize.com/46umfc49bzgl2nf80gm60x2r7puy2746/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "1218",
+      "name": "Stickman Gun Shooter 3D",
+      "image": "https://img.gamemonetize.com/55uewxpgw5fg83ahhosllieq3819vzw0/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "973",
+      "name": "Stickman Saw 3D",
+      "image": "https://img.gamemonetize.com/0i9u6lcbud4wtkl32km8ens7wfginpoo/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "919",
+      "name": "Stickman Prison Escape Story 3D",
+      "image": "https://img.gamemonetize.com/vdqwhxttg6ujyz9mkidhgn18j46mrm7m/512x384.jpg",
+      "categoryId": 5
+    }
+  ]
+}

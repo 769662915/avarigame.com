@@ -1,0 +1,73 @@
+{
+  "category": {
+    "id": 4,
+    "name": "射撃です",
+    "alias": "shooting",
+    "count": 298
+  },
+  "page": 13,
+  "totalPages": 13,
+  "totalItems": 298,
+  "items": [
+    {
+      "id": "28124",
+      "name": "ゾンビアタック",
+      "image": "https://img.gamemonetize.com/vm7dqkz8yrnwyinf1srexxstjno7ybp2/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "28106",
+      "name": "ゾンビアポカリプスゾンビZ HTML5",
+      "image": "https://img.gamemonetize.com/xnhne2f3ovef6xqyra18lgscula9felk/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "28086",
+      "name": "ウォリアーサバイバル.io",
+      "image": "https://img.gamemonetize.com/eitm2ciil0yavsyfoiydtas8db1ly065/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "28074",
+      "name": "ベストバトルカバーロイヤル",
+      "image": "https://img.gamemonetize.com/wd4119shme4h2345szt6s85bogkb0od7/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "28062",
+      "name": "警察基地の潜入",
+      "image": "https://img.gamemonetize.com/4pyqsv8tza0rortbh1doe9ho3ebpyw3v/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "28061",
+      "name": "人類進化ゲーム",
+      "image": "https://img.gamemonetize.com/pvndracecbqk9p32qmlu2djp1tueo35u/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "28060",
+      "name": "ロケット車両オンライン",
+      "image": "https://img.gamemonetize.com/f50f4ubbk6ad2ec1p4drdzs5d4sqxqt8/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "28044",
+      "name": "怒りのペンギン",
+      "image": "https://img.gamemonetize.com/nfyey4nn463uwvduzetqlockoj6l7p67/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "28042",
+      "name": "カウンタークラフト3ゾンビ",
+      "image": "https://img.gamemonetize.com/lfkxru4fpeqgj0d69m8kju5n8r8sj7js/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "28033",
+      "name": "エアホッケー - クラシック",
+      "image": "https://img.gamemonetize.com/0md3gt8ahk982d7xdoeqx6dn2dxkbr0k/512x384.jpg",
+      "categoryId": 4
+    }
+  ]
+}

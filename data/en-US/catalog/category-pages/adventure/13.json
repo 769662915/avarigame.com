@@ -1,0 +1,85 @@
+{
+  "category": {
+    "id": 2,
+    "name": "Adventure",
+    "alias": "adventure",
+    "count": 300
+  },
+  "page": 13,
+  "totalPages": 13,
+  "totalItems": 300,
+  "items": [
+    {
+      "id": "22232",
+      "name": "Super Race 3D",
+      "image": "https://img.gamemonetize.com/9xohw9clcze28tghvriy0s1jcy8zrc1o/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "22198",
+      "name": "Brain Master IQ Challenge",
+      "image": "https://img.gamemonetize.com/x05jyfs9tf4x1fst6v9wnjlh22nx84at/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "22174",
+      "name": "Farm Land And Harvest Game",
+      "image": "https://img.gamemonetize.com/lj4bi3eiq40an8almhnr5nmg1gs78c9t/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "22144",
+      "name": "Red Impostor Vs Crew - Among Us",
+      "image": "https://img.gamemonetize.com/z04i960cz1k19851nettxlclxxyi4zji/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "22117",
+      "name": "Roof Rails Online 3D Game",
+      "image": "https://img.gamemonetize.com/cyt71w24pfsk11vac15ps4woee8s0lva/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "22116",
+      "name": "Bus Rush - Bus Surfer",
+      "image": "https://img.gamemonetize.com/42kr643i7zjf4ucq6ll8p51vy7rpdcfb/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "22079",
+      "name": "Farm Land And Harvest",
+      "image": "https://img.gamemonetize.com/q8pz1z5os72gap9euq61uidtb7u2vmq8/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "22071",
+      "name": "Tangram Grid Game",
+      "image": "https://img.gamemonetize.com/wb6hpymrk0x4bcc7jd27hvefokl4v7gv/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "22068",
+      "name": "Little Panda Truck Team Game",
+      "image": "https://img.gamemonetize.com/cah15kjjz2i9591vy7lqadh6a9xm05cq/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "22066",
+      "name": "2048 Run 3D",
+      "image": "https://img.gamemonetize.com/z7os7btei3467tg9rfuzgkpl1pzegcv9/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "22046",
+      "name": "Scary Huggy Playtime",
+      "image": "https://img.gamemonetize.com/aay2n8ghaqbdq7naxiyrxctjhs27mx2r/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "22010",
+      "name": "Little Panda Truck Team",
+      "image": "https://img.gamemonetize.com/4otkvotbs1dtwcr9rv9ejo36d6q669z0/512x384.jpg",
+      "categoryId": 2
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "動作です",
+    "alias": "action",
+    "count": 296
+  },
+  {
+    "id": 2,
+    "name": "冒険です",
+    "alias": "adventure",
+    "count": 289
+  },
+  {
+    "id": 3,
+    "name": "男子です",
+    "alias": "boys",
+    "count": 2
+  },
+  {
+    "id": 4,
+    "name": "射撃です",
+    "alias": "shooting",
+    "count": 298
+  },
+  {
+    "id": 5,
+    "name": "マッチマンです",
+    "alias": "stickman",
+    "count": 300
+  }
+]

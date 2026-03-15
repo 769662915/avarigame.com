@@ -1,0 +1,157 @@
+{
+  "category": {
+    "id": 2,
+    "name": "冒険です",
+    "alias": "adventure",
+    "count": 289
+  },
+  "page": 1,
+  "totalPages": 13,
+  "totalItems": 289,
+  "items": [
+    {
+      "id": "33278",
+      "name": "モンスターゲーム",
+      "image": "https://img.gamemonetize.com/suh0kkvmzonbeft293c3elziytw0ugpc/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "32710",
+      "name": "ヌビクス：ゾンビに対する防御を構築",
+      "image": "https://img.gamemonetize.com/ypk4vwpjaia00rdje91pp17emhjv3tmb/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "32493",
+      "name": "カーズムーブメント",
+      "image": "https://img.gamemonetize.com/qyatso0vkjq5zz2e0lbzwua064bhfz3y/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "32376",
+      "name": "テーブルポン2D",
+      "image": "https://img.gamemonetize.com/ys1ivxz3lmwxz4k05gk3m20z7tzre5e5/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "32375",
+      "name": "リトルパンダの宇宙旅行",
+      "image": "https://img.gamemonetize.com/3c6ufox6i3i8cp5o8fdzl6dl8r2zvklf/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "32276",
+      "name": "カクテルパーティー3D",
+      "image": "https://img.gamemonetize.com/llkmrfjrms7ea79b5v88qs7zdinboryu/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "32198",
+      "name": "ロボットファイティングアドベンチャー",
+      "image": "https://img.gamemonetize.com/riw72brknxjp2r5nx3oh8mh6pm2uqwd2/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "32169",
+      "name": "動物合体ミュータントファイト",
+      "image": "https://img.gamemonetize.com/dmjqtzqhjmtqz28e0ov2vgtw1wdm61oz/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "32159",
+      "name": "ブロッククラフト3Dスクール",
+      "image": "https://img.gamemonetize.com/cfju14fi5zca7zzt1gyefjvvi2crlbst/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "32055",
+      "name": "ホースバックサバイバル",
+      "image": "https://img.gamemonetize.com/9pxqio485c6d6a5gc0k72wbjp3r9ewik/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "31990",
+      "name": "スーパードクター体検",
+      "image": "https://img.gamemonetize.com/2iwba0rqln0grbzu8wxt3pphl1yrbe9e/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "31900",
+      "name": "エレメンタルグローブの魔法力",
+      "image": "https://img.gamemonetize.com/y95ivh95bn3pnk7gaory8rz47ymeo9gp/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "31869",
+      "name": "スキーブロンクスランナー",
+      "image": "https://img.gamemonetize.com/m3jdpqmzjs20ibx1nhos8m182x8yqsj3/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "31821",
+      "name": "ベイビーガード1",
+      "image": "https://img.gamemonetize.com/q15f4tdzhm077b8igtdr7qli7y5ktaqm/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "31658",
+      "name": "リアルフライトシミュレーター",
+      "image": "https://img.gamemonetize.com/qomp8q8bgmkbkwitrb5mc6ba7k3shj1m/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "31642",
+      "name": "プラグマンレース",
+      "image": "https://img.gamemonetize.com/kqanb5x38iamu5oqbd1mhkdk7yaoon0f/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "31641",
+      "name": "ミズランドオンライン",
+      "image": "https://img.gamemonetize.com/snpxjzlasrg7hfbe6r3538ys1h08gfe6/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "31617",
+      "name": "最後の日々：地上でのサバイバル",
+      "image": "https://img.gamemonetize.com/glwm38stfnks21wuqi1876t1yyn11zvx/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "31491",
+      "name": "消防車運転シミュレーター",
+      "image": "https://img.gamemonetize.com/0uxu5s9g496iapo2tnhx8wtjhecy0b8j/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "31434",
+      "name": "ホラーグランマの遊び時間",
+      "image": "https://img.gamemonetize.com/gd6bqzul6asrs570yawzly7mqlj7vw2w/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "31423",
+      "name": "プラントズVSゾンビウォー",
+      "image": "https://img.gamemonetize.com/g0hi0kcpxu3w6yak9mk7s1z4ek5vs8q3/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "31310",
+      "name": "幼児向けゲーム",
+      "image": "https://img.gamemonetize.com/5bu76cvkktp8njixko4j4kucy70yc6mg/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "31276",
+      "name": "メカモンスターアリーナ",
+      "image": "https://img.gamemonetize.com/ty57ya9u7pfgz1ew0x0z4sj089nx4jtn/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "31240",
+      "name": "ワードマスターキッズ",
+      "image": "https://img.gamemonetize.com/j83g3m352xc3u23qdupk5rsl1sj8vis8/512x384.jpg",
+      "categoryId": 2
+    }
+  ]
+}

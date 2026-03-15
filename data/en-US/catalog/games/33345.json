@@ -1,0 +1,10 @@
+{
+  "id": "33345",
+  "name": "Snake Lite",
+  "image": "https://img.gamemonetize.com/57ug1vptmf6cuq3218p0bd7fa9ai5dxz/512x384.jpg",
+  "gameUrl": "https://html5.gamemonetize.com/57ug1vptmf6cuq3218p0bd7fa9ai5dxz/",
+  "description": "Snake Lite is a game in which you need to control a snake and collect cubes that move along different trajectories, also avoiding obstacles and collisions.",
+  "categoryId": 1,
+  "instructions": "The arrow keys control the movement of the snake and the space bar restarts",
+  "tags": "Classic, Snake"
+}

@@ -9,6 +9,9 @@
     "Top": "トップ",
     "New": "新しい",
     "More": "もっと",
+    "Previous": "前へ",
+    "Next": "次へ",
+    "PageOf": "{page} / {total} ページ",
     "PrivacyPolicy": "プライバシーポリシー"
   },
   "NotFoundPage": {

@@ -1,0 +1,157 @@
+{
+  "category": {
+    "id": 4,
+    "name": "射撃です",
+    "alias": "shooting",
+    "count": 298
+  },
+  "page": 3,
+  "totalPages": 13,
+  "totalItems": 298,
+  "items": [
+    {
+      "id": "32459",
+      "name": "ハロウィン2024 FPSシューター",
+      "image": "https://img.gamemonetize.com/9ab396domiv6jz15oy33sy75i9j895ax/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "32422",
+      "name": "スナイパータウン",
+      "image": "https://img.gamemonetize.com/37bnymju4ipw3hmy0faa4jxk46r9pg32/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "32405",
+      "name": "センチペッドアタック2D",
+      "image": "https://img.gamemonetize.com/qonrxxtprdpm1s2fwu5g3nkftrepjkdo/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "32403",
+      "name": "ハロウィンゾンビキャノン",
+      "image": "https://img.gamemonetize.com/mwbuw38d15yg9rswqzk3u9mnd8irm129/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "32367",
+      "name": "ノービックバトルグラウンズ",
+      "image": "https://img.gamemonetize.com/5zf2l6ec0cef43uo7ftxbr0l386h0o6i/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "32340",
+      "name": "ウォーフェアリエア3",
+      "image": "https://img.gamemonetize.com/9xa5tfoih6vphdexzk034fl8ycjwzffz/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "32336",
+      "name": "ハロウィン数学シュート",
+      "image": "https://img.gamemonetize.com/ios1voqqksw9k3g3hucay5tj2u8inahq/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "32330",
+      "name": "キャッスルクルセイド",
+      "image": "https://img.gamemonetize.com/qpmotl0hv4pexlblweieiwqo2fl9fl3u/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "32296",
+      "name": "コースタルディフェンス",
+      "image": "https://img.gamemonetize.com/ladqxht8dr0lltmcxpoio25r4onan6l0/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "32278",
+      "name": "エアースペースシューター",
+      "image": "https://img.gamemonetize.com/l1b5lvgf49i1s7s6s9onfrjs5uprml8k/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "32267",
+      "name": "スカイグライド",
+      "image": "https://img.gamemonetize.com/h7tc571um0nxwtt1i361t1pfsg2y0cpf/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "32249",
+      "name": "コール・オブ・デューティ フリーファイア",
+      "image": "https://img.gamemonetize.com/3krtityw2w7zic69zyaf6smc47u1cxda/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "32241",
+      "name": "2048スキルエディション",
+      "image": "https://img.gamemonetize.com/m3tjd1tloiow2a5g43pzejjmyqfoyxtj/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "32235",
+      "name": "レゴパイレーツアドベンチャー",
+      "image": "https://img.gamemonetize.com/9ldmsitwsskom4jas7e6q18ngg9mbdee/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "32210",
+      "name": "スターライトクエスト",
+      "image": "https://img.gamemonetize.com/61gyw3acao3mkp65tn6clczyl3afw7pt/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "32171",
+      "name": "アップシュート3D",
+      "image": "https://img.gamemonetize.com/nyyxltg8u1ldozcjfskrm4d8tbrs6jh3/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "32164",
+      "name": "ゾンビカウンタークラフト",
+      "image": "https://img.gamemonetize.com/9wxe81w0x14v5enk2qyf9jrghtlnd3x7/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "32161",
+      "name": "バックルームズアサルト",
+      "image": "https://img.gamemonetize.com/f6smfv0uqkr4ds9oklahhhy7080sjbuw/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "32129",
+      "name": "フルーツバウンス",
+      "image": "https://img.gamemonetize.com/wcg6mgwbzy4vd5muvtpl0st1ein8sd4x/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "32117",
+      "name": "フォーリングジェム",
+      "image": "https://img.gamemonetize.com/5rb28igfnnzqtb2l3z2deos6gll4m1hu/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "32114",
+      "name": "チキン",
+      "image": "https://img.gamemonetize.com/bb9mkmgd0b17mcgi6ub0mqcv2fxvzh5u/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "32094",
+      "name": "キャンディーキラー",
+      "image": "https://img.gamemonetize.com/b4ctthiu6xghq95xojqs4dg9jvkkwd38/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "32031",
+      "name": "ラストショット",
+      "image": "https://img.gamemonetize.com/jx55tyrf879uilkgs7zqes0u7muesrfr/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "32030",
+      "name": "特殊部隊戦ゾンビアタック",
+      "image": "https://img.gamemonetize.com/5q3qwdjjx99e4fdh1jsaqymuqn49ar6r/512x384.jpg",
+      "categoryId": 4
+    }
+  ]
+}

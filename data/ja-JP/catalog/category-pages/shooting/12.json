@@ -1,0 +1,157 @@
+{
+  "category": {
+    "id": 4,
+    "name": "射撃です",
+    "alias": "shooting",
+    "count": 298
+  },
+  "page": 12,
+  "totalPages": 13,
+  "totalItems": 298,
+  "items": [
+    {
+      "id": "28620",
+      "name": "ギャラクシーアタック",
+      "image": "https://img.gamemonetize.com/2f3lc79me6xedhjapiuqr4bat2oqlx60/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "28612",
+      "name": "RED SQUARE   THE SHOOTER",
+      "image": "https://img.gamemonetize.com/v5og4n3rdgosjkdma3n8f322yihk6din/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "28575",
+      "name": "パイプサーファー",
+      "image": "https://img.gamemonetize.com/kg7gr5sp2q6nxvuf9zjfm4yfrratlvi2/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "28572",
+      "name": "スキビディモンスタートイレ",
+      "image": "https://img.gamemonetize.com/gkulc1620irvjdrmmn1iso4hbdd80653/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "28551",
+      "name": "スナイパー：スキビディを殺す",
+      "image": "https://img.gamemonetize.com/8zqeys9a9enkub9saxa1lhy12tj1mfqi/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "28529",
+      "name": "スキビディトイレ脱出",
+      "image": "https://img.gamemonetize.com/loudcjzy94nkk3fio3nih05zv94fle7o/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "28512",
+      "name": "Blocky Combat SWAT Final 2023",
+      "image": "https://img.gamemonetize.com/p7sqgaey9jr0d7x1dvvffab9zb8a7lot/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "28494",
+      "name": "GunMaster 2D: Extreme Warfare Saga",
+      "image": "https://img.gamemonetize.com/5vqeyzv3jwkjx560mmc5e19bb1lpq00d/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "28491",
+      "name": "スキビディトイレサバイバル",
+      "image": "https://img.gamemonetize.com/f9awds5z5fhinof9s1c17lesnwlf256a/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "28490",
+      "name": "3D Funny Shooter",
+      "image": "https://img.gamemonetize.com/4d9r2tktwm4rjwdxv1mhkpaongg22zt4/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "28479",
+      "name": "シークレットエージェントH5",
+      "image": "https://img.gamemonetize.com/k5da8njhep5g6t9be4olc0c8e2xyyslj/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "28476",
+      "name": "ビーチラン",
+      "image": "https://img.gamemonetize.com/hdob7vm05mdme11zco6ypx3vw4d9zla5/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "28467",
+      "name": "飛行船戦争：アルマダ",
+      "image": "https://img.gamemonetize.com/5a9ueh44pxdy0d609voztzpisffajxge/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "28456",
+      "name": "コンバットキュービックアリーナHTML5",
+      "image": "https://img.gamemonetize.com/9b1o6budcuj4emafuifw6wy503t1fjzf/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "28434",
+      "name": "オフィスメイヘム",
+      "image": "https://img.gamemonetize.com/c7pd342ox04bx8srkji12v20c10tg3y3/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "28389",
+      "name": "タワーディフェンスゾンビ",
+      "image": "https://img.gamemonetize.com/79erubfx45uiq8ksuuxofo7h79s9b1t0/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "28303",
+      "name": "ガンシューティングCS",
+      "image": "https://img.gamemonetize.com/iiw4c0f8956j6slme1qyllux2isfmaml/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "28297",
+      "name": "スリンガー3D",
+      "image": "https://img.gamemonetize.com/g7dl528r1abo9c38wkpxg8rdpoj2xjz5/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "28269",
+      "name": "バッドドールズ",
+      "image": "https://img.gamemonetize.com/gldqt2h3m8ykhrbknlw40iv9sw791j1b/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "28256",
+      "name": "スペースバトルシップオリオン",
+      "image": "https://img.gamemonetize.com/skvjs7dv1dsf9maavy3ckomckvpnj61t/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "28230",
+      "name": "ヒットイットライト",
+      "image": "https://img.gamemonetize.com/1js37v8rgfc4mk3019lssr7uyzningnk/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "28215",
+      "name": "ファイターエスケープ",
+      "image": "https://img.gamemonetize.com/zfq34mhfw4cu2d433g8aqgun36s4gppg/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "28214",
+      "name": "スライムインベーダー",
+      "image": "https://img.gamemonetize.com/wc373ue5qerdn4c1e5l6b8mhv4iruwrd/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "28140",
+      "name": "ベーカリープロテクション",
+      "image": "https://img.gamemonetize.com/bsyo5m019rwhqn2zoqfi2i6otaxmrn6c/512x384.jpg",
+      "categoryId": 4
+    }
+  ]
+}

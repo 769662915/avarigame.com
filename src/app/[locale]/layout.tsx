@@ -36,7 +36,7 @@ export default async function LocaleLayout({
       {/* ttq 像素追踪  */}
       <Script
         id="tiktok-pixel-javascript"
-        strategy="afterInteractive"
+        strategy="lazyOnload"
         dangerouslySetInnerHTML={{
           __html: `
 !function (w, d, t) {

@@ -1,0 +1,157 @@
+{
+  "category": {
+    "id": 1,
+    "name": "Action",
+    "alias": "action",
+    "count": 300
+  },
+  "page": 5,
+  "totalPages": 13,
+  "totalItems": 300,
+  "items": [
+    {
+      "id": "30847",
+      "name": "Five Nights at Horror Games",
+      "image": "https://img.gamemonetize.com/nngvaejcv5w8qkis77vn842mfer20fm9/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "30834",
+      "name": "GrowBall Feed to Grow",
+      "image": "https://img.gamemonetize.com/hcx5y4cogxnwjvozussfta9q00905zv6/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "30830",
+      "name": "Hook Wars",
+      "image": "https://img.gamemonetize.com/8j0k7hnlow6b6ygjrlrre3wp55isblgt/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "30812",
+      "name": "Age Of Quest",
+      "image": "https://img.gamemonetize.com/21w183pon5e08kuu66ta3irsrrjdqecj/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "30806",
+      "name": "Freddys Return Village Escape",
+      "image": "https://img.gamemonetize.com/t2w13n4v5ua06i776d9rgbmn7t6c9vjb/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "30800",
+      "name": "Aircraft Battle 2024",
+      "image": "https://img.gamemonetize.com/vdpxh1ejl80w4hp7p7psuimdw10jbb9n/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "30792",
+      "name": "Friends Battle Water Die",
+      "image": "https://img.gamemonetize.com/hfqndhz4mtabr586stwlbe6a6opb6une/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "30769",
+      "name": "Egg Wars",
+      "image": "https://img.gamemonetize.com/mmf9jqdtaj0eizuitxj19i7u6pp0tvyt/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "30755",
+      "name": "Offroad Mountain Driving 2024",
+      "image": "https://img.gamemonetize.com/grnjvd7zlbj5ns8v2y3gx724h8bpsqyt/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "30754",
+      "name": "Cameraman vs Skibidi Battle Game",
+      "image": "https://img.gamemonetize.com/2cpjxqbza71fxcq9kd598ubqouvzgi5r/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "30729",
+      "name": "Snake Wars",
+      "image": "https://img.gamemonetize.com/0t0kyeqddg5haa8l91aoi2b98qeier71/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "30691",
+      "name": "Idle Swat Terrorist Game",
+      "image": "https://img.gamemonetize.com/hvfrneuqrfwxoikyl8o3i32yjy4xhgrq/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "30676",
+      "name": "Amazing Digital Circus Horror Escape",
+      "image": "https://img.gamemonetize.com/v0eqgq8djaleuf1y5jh3jtr9386njtgn/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "30648",
+      "name": "Battlefield Brawl Co op Challange",
+      "image": "https://img.gamemonetize.com/9ztoy27aazvyob6wq7qgea48eanbcbus/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "30633",
+      "name": "Guardians of the Dark Dungeon",
+      "image": "https://img.gamemonetize.com/myfjikexavuq54mb13hi89070p4qx7ja/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "30614",
+      "name": "Granny Returns Haunted House",
+      "image": "https://img.gamemonetize.com/pm5wjn3np4xl59y8ie3a85xqs1m1nyma/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "30608",
+      "name": "Secret Key",
+      "image": "https://img.gamemonetize.com/cevjm8tbypn2u4i9kato9lwllqzowxjo/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "30598",
+      "name": "Swordbattle.io",
+      "image": "https://img.gamemonetize.com/m2yzvbmyf75dl11i5lrtzlykjkzrgb85/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "30582",
+      "name": "Car Smash",
+      "image": "https://img.gamemonetize.com/h3b24m8uiyxmg3pz3vkfcea9887j53wm/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "30530",
+      "name": "Nuke Continent Fight",
+      "image": "https://img.gamemonetize.com/9s15hu7763srdi2hfmsbu8tcpgjrfazs/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "30517",
+      "name": "Mass Sink",
+      "image": "https://img.gamemonetize.com/u5hhlak7rg5b69uwako4v9cnw51nt2ge/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "30509",
+      "name": "Head Soccer 2D 2023",
+      "image": "https://img.gamemonetize.com/t9wdukh7cv54thssreth3vmh6f6s120c/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "30496",
+      "name": "StickMan Angle Fight ",
+      "image": "https://img.gamemonetize.com/1r11ygneka6bu6iy7cnhj2x1wqznwree/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "30468",
+      "name": "Boxing Gang Stars",
+      "image": "https://img.gamemonetize.com/e0wtz9mesz8tuebf28ykoggtieokpc74/512x384.jpg",
+      "categoryId": 1
+    }
+  ]
+}

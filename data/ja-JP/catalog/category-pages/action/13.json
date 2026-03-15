@@ -1,0 +1,61 @@
+{
+  "category": {
+    "id": 1,
+    "name": "動作です",
+    "alias": "action",
+    "count": 296
+  },
+  "page": 13,
+  "totalPages": 13,
+  "totalItems": 296,
+  "items": [
+    {
+      "id": "27131",
+      "name": "戦争島",
+      "image": "https://img.gamemonetize.com/7n02dsuax4fem8hrign84krwp9hh9glq/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "27105",
+      "name": "エクストリームカーディングシミュレーター3D",
+      "image": "https://img.gamemonetize.com/ad1g56ndbl8zxvyoj6hhriwrvf4zmbt1/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "27014",
+      "name": "レスキュービーチボートパーキング",
+      "image": "https://img.gamemonetize.com/tx76elvbmzc1bh2mqxzxj9cwgr7fkrf5/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "26996",
+      "name": "ロイヤルサムブル",
+      "image": "https://img.gamemonetize.com/feoaj2s4ngmyxl52688bk1ne1dzdkg7q/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "26937",
+      "name": "アイアンマンパルクール",
+      "image": "https://img.gamemonetize.com/s8a6556doo90o88i2vyvuxlgl7z2s1h3/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "26932",
+      "name": "ストリートファイター2",
+      "image": "https://img.gamemonetize.com/e3zre024895vjks5hwqh1x7j8xhse33s/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "26923",
+      "name": "キックキングズゲーム",
+      "image": "https://img.gamemonetize.com/b60quhddx03koy1dw21tik76ii9egzrt/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "26893",
+      "name": "ガンメイヘムリデューサル",
+      "image": "https://img.gamemonetize.com/j0d6wcfjd9on0yb8k6zb68vaq2y6lp61/512x384.jpg",
+      "categoryId": 1
+    }
+  ]
+}

@@ -9,6 +9,9 @@
     "Top": "Top",
     "New": "New",
     "More": "More",
+    "Previous": "Previous",
+    "Next": "Next",
+    "PageOf": "Page {page} / {total}",
     "PrivacyPolicy": "Privacy Policy"
   },
   "NotFoundPage": {

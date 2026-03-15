@@ -1,11 +1,11 @@
 import { Locale } from '@/i18n/routing';
-import { Games } from '@/services/data';
+import { GameCardRecord } from '@/services/data';
 import { Grid, GridItem } from '@chakra-ui/react';
 
 import GameItem from '../game-item';
 
 interface Props {
-  data: Games;
+  data: GameCardRecord[];
   spanIndex: number;
   locale: Locale;
   channel?: string;

@@ -1,0 +1,157 @@
+{
+  "category": {
+    "id": 4,
+    "name": "射撃です",
+    "alias": "shooting",
+    "count": 298
+  },
+  "page": 9,
+  "totalPages": 13,
+  "totalItems": 298,
+  "items": [
+    {
+      "id": "30000",
+      "name": "スナイパーストライク",
+      "image": "https://img.gamemonetize.com/faj3w69flisi32koxs0ea4h1tawgogu8/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "29950",
+      "name": "スキビディ戦場シューティングオンライン",
+      "image": "https://img.gamemonetize.com/mg6l8zq0fqhcowa25vm1hwk149tumgsl/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "29949",
+      "name": "スキビディストライク",
+      "image": "https://img.gamemonetize.com/otdbe3ccst605qyfhnwnod62pnhnjjqb/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "29914",
+      "name": "貨物トラック：輸送＆ハント",
+      "image": "https://img.gamemonetize.com/ng2igdvp92xohmlehl315mwqe3wt9caq/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "29889",
+      "name": "メタルスラッグアドベンチャー",
+      "image": "https://img.gamemonetize.com/fdngtbzxm6ilhy3f91n5edffnjhsa9ze/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "29870",
+      "name": "アサルトタイム",
+      "image": "https://img.gamemonetize.com/p59ss73bjptrct2bb63ci3xzjbra2r7r/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "29856",
+      "name": "エージェントスキビディ",
+      "image": "https://img.gamemonetize.com/4kbn6y0aadz1fssql42d6op1m3zgk2a6/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "29825",
+      "name": "チェルノブイリゾンビヘル",
+      "image": "https://img.gamemonetize.com/01yrjf2hqf2aesokf2jeq6o45k0puiet/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "29814",
+      "name": "ステューピッドゾンビオンライン",
+      "image": "https://img.gamemonetize.com/eesvler8sjxjkd8z35zczvloz5igtb3q/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "29810",
+      "name": "リベルウィングス",
+      "image": "https://img.gamemonetize.com/sakdarokyhzgz75r2ybmf80pmt4ebdcn/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "29720",
+      "name": "太平洋アドベンチャー",
+      "image": "https://img.gamemonetize.com/b3gmh9go2cl19hbsmci17bh738xcloty/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "29683",
+      "name": "スキビディアタック",
+      "image": "https://img.gamemonetize.com/d3rkszqi4fjxzuv900ibqo6v1cdo3xed/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "29654",
+      "name": "ロボットの謎",
+      "image": "https://img.gamemonetize.com/ya5f3mwrtttq0lfgw9yuf8v3v88h5zo0/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "29633",
+      "name": "インフィニットブロック",
+      "image": "https://img.gamemonetize.com/yicypspzteeu2d06qfbr8o62nc9zsbu3/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "29626",
+      "name": "マウンテンタンク",
+      "image": "https://img.gamemonetize.com/qrh3ov788e2pho4lisrwxjofjcmauvg1/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "29618",
+      "name": "タンク：カウンターオフェンシブ",
+      "image": "https://img.gamemonetize.com/yytlybvqzcrfx0mh4igk52l3qf35o4z7/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "29615",
+      "name": "パンプキンハント",
+      "image": "https://img.gamemonetize.com/2m1c5vmtlw1bl9fa5sdorbrtcqi359f5/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "29587",
+      "name": "カウボーイVSスキビディトイレ",
+      "image": "https://img.gamemonetize.com/pdsguzyx3xhl0dekvbdi132bw3hzj44t/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "29567",
+      "name": "ゾンビウォーズ トップダウンサバイバル",
+      "image": "https://img.gamemonetize.com/y7tbihkovrbyz0ybxxd0o85s70b2h8er/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "29554",
+      "name": "スキビディトイレFPSシューティングサバイバル",
+      "image": "https://img.gamemonetize.com/eoeo4gswxn1whp6mkold64qn6dunff5w/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "29546",
+      "name": "バトルグラウンドサバイバル2023",
+      "image": "https://img.gamemonetize.com/bbjdiu2s8se9muqkdbllq6by8qy4ds3t/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "29499",
+      "name": "グリマースブレンダー",
+      "image": "https://img.gamemonetize.com/74ijtek8l89t61rhi0x5f7f4feuhh78r/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "29452",
+      "name": "ワンブレットトゥグリマス",
+      "image": "https://img.gamemonetize.com/qdhbk8rmikytwo7d31x7nkyej7cvz6lk/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "29435",
+      "name": "ゾンビフロンティアシューター",
+      "image": "https://img.gamemonetize.com/t5ja1jr6s0tib922yaoc1d86xb3oh49h/512x384.jpg",
+      "categoryId": 4
+    }
+  ]
+}

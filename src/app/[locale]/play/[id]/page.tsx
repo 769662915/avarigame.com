@@ -1,5 +1,5 @@
 import { Locale } from "@/i18n/routing";
-import { getGame, getGames, getStaticLocales } from "@/actions";
+import { getGameDetail, getRouteManifest, getStaticLocales } from "@/actions";
 
 interface Props {
   params: {
@@ -13,10 +13,11 @@ export async function generateStaticParams() {
   const locales = getStaticLocales();
   const params = await Promise.all(
     locales.map(async (locale) => {
-      const games = await getGames(locale);
-      return games.map((game) => ({
+      const routes = await getRouteManifest(locale);
+
+      return routes.playIds.map((id) => ({
         locale,
-        id: game.id.toString(),
+        id,
       }));
     })
   );
@@ -27,7 +28,7 @@ export async function generateStaticParams() {
 export default async function Page({
   params: { id, locale },
 }: Props) {
-  const { gameUrl } = await getGame(locale, id);
+  const { gameUrl } = await getGameDetail(locale, id);
 
   return (
     <main style={{ padding: "32px", fontFamily: "system-ui, sans-serif" }}>

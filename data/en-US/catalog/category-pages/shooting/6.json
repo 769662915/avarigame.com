@@ -1,0 +1,157 @@
+{
+  "category": {
+    "id": 4,
+    "name": "Shooting",
+    "alias": "shooting",
+    "count": 300
+  },
+  "page": 6,
+  "totalPages": 13,
+  "totalItems": 300,
+  "items": [
+    {
+      "id": "31306",
+      "name": "Adam vs Sacha",
+      "image": "https://img.gamemonetize.com/as0zjeaf56zixncfmubiewlq1emluezk/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "31268",
+      "name": "Doomsday Survival Rpg Shooter",
+      "image": "https://img.gamemonetize.com/anvhaw8io64p91g1e72bda0nkow82687/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "31237",
+      "name": "Backrooms: Skibidi Shooter 2",
+      "image": "https://img.gamemonetize.com/2sirxintphvkqs2muv9dze4emyydluai/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "31233",
+      "name": "Merge Shooter",
+      "image": "https://img.gamemonetize.com/9h8tef65vztebvjwbojpzwa8qvps601k/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "31201",
+      "name": "Poppy Strike  3",
+      "image": "https://img.gamemonetize.com/0umzwri276hgbguwre6exl9xcjqt323k/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "31139",
+      "name": "Scary Night",
+      "image": "https://img.gamemonetize.com/rjfyc0280pjehemxtmgf4kv4rgeqpn8q/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "31136",
+      "name": "World in Danger Earth Attack",
+      "image": "https://img.gamemonetize.com/eiz7yg0j236g0v2bjldy88w41zdvfg0z/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "31133",
+      "name": "Blind Boat Shooting Master",
+      "image": "https://img.gamemonetize.com/z8html2gamx12qhr0zh0reoadbep2slx/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "31131",
+      "name": "Mutant Assassin 3D",
+      "image": "https://img.gamemonetize.com/tz806osx4kalooz5x5s1mm07i0di3zcy/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "31126",
+      "name": "SpaceShooter",
+      "image": "https://img.gamemonetize.com/t8oj0edjnh372ziobjw87dpzeh6sdwmv/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "31119",
+      "name": "Pomni Maze Shooter",
+      "image": "https://img.gamemonetize.com/wv4sste7b1cdoao3bvyblw2v5dewfwrm/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "31093",
+      "name": "Snake Train Zone",
+      "image": "https://img.gamemonetize.com/6aci346224wl1kjxyc4oo681k4wxylhl/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "31087",
+      "name": "Merge Monster Attack",
+      "image": "https://img.gamemonetize.com/06uxm0juwlj40ldhlxmirjnflh8don4t/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "31066",
+      "name": "Chicken Wars: Merge Guns",
+      "image": "https://img.gamemonetize.com/fghc3rmfd0m2n6h46bjidm4xk4edwimu/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "31062",
+      "name": "Roblox World Shooter",
+      "image": "https://img.gamemonetize.com/gbzu2z08rrcwyag4kgnhp2dr0wumvubu/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "31041",
+      "name": "Saving Digital Circus",
+      "image": "https://img.gamemonetize.com/kv9ieiho5hp6u7wlmx0kq97v3otoxcdv/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "31040",
+      "name": "Army Run Merge",
+      "image": "https://img.gamemonetize.com/gpqaajh48rsts0m13yuxfk1bpbugkxfj/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "31007",
+      "name": "FNAF Shooter",
+      "image": "https://img.gamemonetize.com/n2ipjnov8bigc7ewetopjv8runkpy8x7/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "30955",
+      "name": "Zombie Survival Escape",
+      "image": "https://img.gamemonetize.com/tjzzc48elqo2vx48g86k9cwcx48maiw1/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "30945",
+      "name": "Grand Skibidi Town 2",
+      "image": "https://img.gamemonetize.com/zznqrcebzngj8zcz6xsutytcgecbrej2/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "30912",
+      "name": "Bubble Shooter: classic match 3",
+      "image": "https://img.gamemonetize.com/4imkqhrztw8meqi836243v4lrnm4wpcv/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "30906",
+      "name": "2048 The King Return",
+      "image": "https://img.gamemonetize.com/n0z7uvsy5ra3t46g0040weanftotqc8p/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "30888",
+      "name": "Crazy Strike Force",
+      "image": "https://img.gamemonetize.com/3953onlmm7ix3h4osfgd5mbz1zgarda7/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "30871",
+      "name": "Jet Fighter Pacific War",
+      "image": "https://img.gamemonetize.com/ox6iptvfoixr48wmz9m6ymjrvavsia7x/512x384.jpg",
+      "categoryId": 4
+    }
+  ]
+}

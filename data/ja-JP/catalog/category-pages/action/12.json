@@ -1,0 +1,157 @@
+{
+  "category": {
+    "id": 1,
+    "name": "動作です",
+    "alias": "action",
+    "count": 296
+  },
+  "page": 12,
+  "totalPages": 13,
+  "totalItems": 296,
+  "items": [
+    {
+      "id": "27560",
+      "name": "戦争の王",
+      "image": "https://img.gamemonetize.com/1u5n9u5ptgpn5j1u5l2rct4cdi2vdeni/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "27558",
+      "name": "鋳鉄剣",
+      "image": "https://img.gamemonetize.com/7lw270vciarnaoitguk6tkromyq3q80q/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "27556",
+      "name": "バス駐車シミュレーターオンライン",
+      "image": "https://img.gamemonetize.com/ffpf197dio6ysag7v10k6mg8e1zzwwip/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "27494",
+      "name": "アルティメットヒーロークラッシュ2",
+      "image": "https://img.gamemonetize.com/usw5g0vhzsknc0hwbs9848ow9ou3fb0e/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "27484",
+      "name": "155暴動鎮圧-(機動隊)",
+      "image": "https://img.gamemonetize.com/ad5trvjdq9t3uen55vd4qowlul4l6lvy/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "27474",
+      "name": "トラック輸送",
+      "image": "https://img.gamemonetize.com/2xmah9fs3tksr65a9u48mebmz3dfdb3a/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "27470",
+      "name": "アルティメットヒーロークラッシュ！",
+      "image": "https://img.gamemonetize.com/d3q0env6e78mzpnk09mh87by4tefdtk9/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "27433",
+      "name": "ローラーボール3Dフィジット",
+      "image": "https://img.gamemonetize.com/hbp4liecpwkf4g994tjmy0pa7nz36xa0/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "27428",
+      "name": "アックスキャッスル",
+      "image": "https://img.gamemonetize.com/f7c2foeivusa5h2cf6obae19oq1cp9a1/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "27388",
+      "name": "ダッドンミー",
+      "image": "https://img.gamemonetize.com/mvvyuy94ue42hbol2mpfagcytxteg6be/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "27386",
+      "name": "アバター・ザ・ラスト・エアベンダー",
+      "image": "https://img.gamemonetize.com/67m3h9bf8jppt9tw6twy691ly41j6r3v/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "27376",
+      "name": "ワンホイールメイヒーム",
+      "image": "https://img.gamemonetize.com/vsbkqfrol82xjmz4rnercyxb2j31bzdq/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "27365",
+      "name": "ゾンビクラフト3D",
+      "image": "https://img.gamemonetize.com/zg490lv7tqo5pfpyauk99r48dw9fzhqe/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "27361",
+      "name": "スウィートベイビーホテル",
+      "image": "https://img.gamemonetize.com/2mw7nsgrjs1nw2azdqoqec68fy6yj847/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "27306",
+      "name": "クレイジーシープフーパー",
+      "image": "https://img.gamemonetize.com/lpi7wafhcdyxm0cmuf3kmiclurt24x5f/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "27300",
+      "name": "ワブリーボクシング3D",
+      "image": "https://img.gamemonetize.com/i90pmk0ibj4i23n35bie0ft0g32dfbu9/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "27269",
+      "name": "ゾンビダービー：ブロッキーロード",
+      "image": "https://img.gamemonetize.com/9agsinuf4euxbtz27gprn2bj9eidwn7u/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "27265",
+      "name": "ポケモンシュート2",
+      "image": "https://img.gamemonetize.com/tc62dt6b7y4rdms3qy4d0thxl70zjvgv/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "27236",
+      "name": "エスケーププラン",
+      "image": "https://img.gamemonetize.com/ldn52nbs45z7wy04zw7r29iaknb1kwbi/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "27232",
+      "name": "ガーデンバンバンVSポッピー",
+      "image": "https://img.gamemonetize.com/29l5kmuquoajls3rkh9mde1uj9slblni/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "27209",
+      "name": "BMXオフロードトライアルスタント",
+      "image": "https://img.gamemonetize.com/xhsb3d093scosen4my5jxvtwokq7vonz/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "27165",
+      "name": "デスコプターズ",
+      "image": "https://img.gamemonetize.com/809s73gdw3qnqnlrvrdw6dadmym740zv/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "27155",
+      "name": "ニンジャボーイフライング",
+      "image": "https://img.gamemonetize.com/zrrw0ua3o8crkke7s6jm8nqxo0hkej5q/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "27152",
+      "name": "ザ・ドライバー盗難シミュレーター",
+      "image": "https://img.gamemonetize.com/c83tdcj6ls2mvsv9kv042yiz7u1yijf0/512x384.jpg",
+      "categoryId": 1
+    }
+  ]
+}

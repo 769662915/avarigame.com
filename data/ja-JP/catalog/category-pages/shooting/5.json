@@ -1,0 +1,157 @@
+{
+  "category": {
+    "id": 4,
+    "name": "射撃です",
+    "alias": "shooting",
+    "count": 298
+  },
+  "page": 5,
+  "totalPages": 13,
+  "totalItems": 298,
+  "items": [
+    {
+      "id": "31671",
+      "name": "ダッジボールジャンプ",
+      "image": "https://img.gamemonetize.com/85xnibxi6da0o3shfewz7hpv5lskpnh4/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "31627",
+      "name": "ライオットビレッジ",
+      "image": "https://img.gamemonetize.com/u9e4cct0kkx5g6v3996xr4z8138i03e8/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "31615",
+      "name": "バレットストーム",
+      "image": "https://img.gamemonetize.com/nvwkmroywqrhe7izojydzq5l4usj6j1n/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "31614",
+      "name": "キティレスキューパズル",
+      "image": "https://img.gamemonetize.com/xv19lzj33qo9asbw3bmx55uqhhq7089x/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "31580",
+      "name": "マージガンFPSシューティングゾンビ",
+      "image": "https://img.gamemonetize.com/fbdxl3fqrfnce405bag3rkhb9zyc7gxm/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "31550",
+      "name": "ガンエボリューション",
+      "image": "https://img.gamemonetize.com/6vh1xzj04x35xojln9ej5wkfluk6o4tu/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "31524",
+      "name": "ポピーの脱出",
+      "image": "https://img.gamemonetize.com/o5i8yvtopemby5lmono1egcxba0l2hbb/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "31520",
+      "name": "ガンシューティングレンジ",
+      "image": "https://img.gamemonetize.com/zwurlfns81rzemxlwpx6nfzmqvz959br/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "31495",
+      "name": "ローリーバウンサー",
+      "image": "https://img.gamemonetize.com/x83d58p70aesmjg9co8yosxgxmzubhew/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "31492",
+      "name": "ウェストフロンティアシャープシューター3D",
+      "image": "https://img.gamemonetize.com/dck12ektf89mko6n6jw59x1dka9g69nq/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "31481",
+      "name": "グランドゾンビスウォーム2",
+      "image": "https://img.gamemonetize.com/wr4tmc5siz8asb0zyqrtxpg4e9cmivg0/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "31468",
+      "name": "ポピーサバイバルシューティングドライバー",
+      "image": "https://img.gamemonetize.com/ajo7f5hd20k10hnogef0vdpmu9fh9js5/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "31467",
+      "name": "シューターズ",
+      "image": "https://img.gamemonetize.com/1wl3lj6nw5ve5pitquol5iqbqe9ata2c/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "31457",
+      "name": "カオスロードコンバットカーレース",
+      "image": "https://img.gamemonetize.com/qtbioqcd1txn7q4q1cvqjky1rcu0ho07/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "31448",
+      "name": "ロボットを倒せ",
+      "image": "https://img.gamemonetize.com/cdjqctxbm3tmyc38p92hkpyuc0n9gf4x/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "31446",
+      "name": "ルーパーフルーツヒット",
+      "image": "https://img.gamemonetize.com/cn98su6spc1mzp8socaqm6qj0rdbnofo/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "31437",
+      "name": "カウンタークラフト5",
+      "image": "https://img.gamemonetize.com/bvtwb16pemo4vi3o386pw0bcvwx5ssem/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "31428",
+      "name": "クリスタルデストロイヤー",
+      "image": "https://img.gamemonetize.com/t0fv4lfns48itmp7b95rnaxwda5x0c0p/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "31405",
+      "name": "エアコンバット：エイリアンインベーダー",
+      "image": "https://img.gamemonetize.com/tjlfnkmmv7s5vvcuj5p55bq0khmw6zl8/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "31390",
+      "name": "スペースガーディアン",
+      "image": "https://img.gamemonetize.com/nxog25t6v3k4kr77bdl240xilek36ccd/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "31352",
+      "name": "キャノンズブラスト3D",
+      "image": "https://img.gamemonetize.com/z79u1kr2aotzdw7f2849y9hcsbxoru8g/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "31347",
+      "name": "ブロックチームデスマッチ",
+      "image": "https://img.gamemonetize.com/6viikkt1bjfynvfk6u6hn4v16m5h3063/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "31315",
+      "name": "ウォーターシューティング",
+      "image": "https://img.gamemonetize.com/ghbkmg69mw4xxs2u8d4wtnku2ldo71w7/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "31306",
+      "name": "アダムVSサチャ",
+      "image": "https://img.gamemonetize.com/as0zjeaf56zixncfmubiewlq1emluezk/512x384.jpg",
+      "categoryId": 4
+    }
+  ]
+}

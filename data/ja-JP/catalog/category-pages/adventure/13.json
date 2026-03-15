@@ -1,0 +1,19 @@
+{
+  "category": {
+    "id": 2,
+    "name": "冒険です",
+    "alias": "adventure",
+    "count": 289
+  },
+  "page": 13,
+  "totalPages": 13,
+  "totalItems": 289,
+  "items": [
+    {
+      "id": "22010",
+      "name": "リトルパンダトラックチーム",
+      "image": "https://img.gamemonetize.com/4otkvotbs1dtwcr9rv9ejo36d6q669z0/512x384.jpg",
+      "categoryId": 2
+    }
+  ]
+}

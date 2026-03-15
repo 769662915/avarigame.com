@@ -1,0 +1,10 @@
+{
+  "id": "27428",
+  "name": "アックスキャッスル",
+  "image": "https://img.gamemonetize.com/f7c2foeivusa5h2cf6obae19oq1cp9a1/512x384.jpg",
+  "gameUrl": "https://html5.gamemonetize.com/f7c2foeivusa5h2cf6obae19oq1cp9a1/",
+  "description": "移動プラットフォーム上で相手に斧を投げて点数を獲得します。5点先取したプレイヤーが勝利します。",
+  "categoryId": 1,
+  "instructions": "ゲームは2人用モードとソロモードで構成されています。2人用モードでは、P2の上キーを押しながらP1のWキーを押してシュートします。",
+  "tags": "2 Player, 2D, Castle"
+}

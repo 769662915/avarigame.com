@@ -1,0 +1,10 @@
+{
+  "id": "32376",
+  "name": "テーブルポン2D",
+  "image": "https://img.gamemonetize.com/ys1ivxz3lmwxz4k05gk3m20z7tzre5e5/512x384.jpg",
+  "gameUrl": "https://html5.gamemonetize.com/ys1ivxz3lmwxz4k05gk3m20z7tzre5e5/",
+  "description": "これはシンプルで中毒性のあるゲームで、画面の反対側にいる2人のプレイヤーがパドルを操作し、ボールを行き来させようとします。最初に指定された点数を獲得したプレイヤーがゲームに勝利します。",
+  "categoryId": 2,
+  "instructions": "上下矢印キー",
+  "tags": "1 Player, 2D, Arcade"
+}

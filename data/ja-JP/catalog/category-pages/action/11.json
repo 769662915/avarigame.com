@@ -1,0 +1,157 @@
+{
+  "category": {
+    "id": 1,
+    "name": "動作です",
+    "alias": "action",
+    "count": 296
+  },
+  "page": 11,
+  "totalPages": 13,
+  "totalItems": 296,
+  "items": [
+    {
+      "id": "28164",
+      "name": "ブルムギスライムジャンプゲーム",
+      "image": "https://img.gamemonetize.com/gvpbnor2tt5g4ww5kzwvumobrij83cq4/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "28126",
+      "name": "ウォーランズ2",
+      "image": "https://img.gamemonetize.com/oljjmrqt012pa246cjetkvm1natym9ia/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "28125",
+      "name": "フュリアスソルジャー2",
+      "image": "https://img.gamemonetize.com/472hspapj0lxuu92tik08vbtqcurhs1d/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "28107",
+      "name": "マッドガンズオンラインゲーム",
+      "image": "https://img.gamemonetize.com/yyalqiiv14u7gd3c1jx14xdw6yfyqcip/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "28065",
+      "name": "ドゥームズデイシューター",
+      "image": "https://img.gamemonetize.com/umrlvtu0w3ipioz6kk026p4ep09cv72i/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "28008",
+      "name": "戦争の芸術",
+      "image": "https://img.gamemonetize.com/qgtwou637cbipjd1klwhi4hqnnjszkme/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "27983",
+      "name": "ポリスエボリューションアイドル",
+      "image": "https://img.gamemonetize.com/gefwpdcmo9m45ee82wcduxketbs325c5/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "27851",
+      "name": "ウォールキッカーズ",
+      "image": "https://img.gamemonetize.com/c8ipumojsd6jlqeo5uuebqq3c9rgzc2t/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "27842",
+      "name": "ゾンビディフェンスGO",
+      "image": "https://img.gamemonetize.com/j8ig43vouu9d4efw843psfv68vpuj2e6/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "27800",
+      "name": "アンディスputed MMA",
+      "image": "https://img.gamemonetize.com/z44n1kw2x4acsiywbs5tjpgmh11rgfsd/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "27770",
+      "name": "クアッドコプターFXシミュレーター",
+      "image": "https://img.gamemonetize.com/f8neovy0y1ul7c83s21eywntu92hxlge/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "27683",
+      "name": "ミージャーバイツ",
+      "image": "https://img.gamemonetize.com/8rey9somdz5hkxazkkray9402ko8djbd/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "27667",
+      "name": "スティーリング・ザ・ダイヤモンド",
+      "image": "https://img.gamemonetize.com/czbprybj2u58l36092j6ba6hs1jo2220/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "27662",
+      "name": "ダイヤモンドを盗む",
+      "image": "https://img.gamemonetize.com/czbprybj2u58l36092j6ba6hs1jo2220/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "27657",
+      "name": "オールドスクールキック",
+      "image": "https://img.gamemonetize.com/1y26ayznapzwgr008pgp4z46isfyjg02/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "27655",
+      "name": "上司を叩け",
+      "image": "https://img.gamemonetize.com/rdo1rokdiqfmgwtg1on0mrrrxq3sal2y/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "27634",
+      "name": "ガンフェストブラスト",
+      "image": "https://img.gamemonetize.com/m8vuboqgy1k52vmrgqb2icwqi87h9zdq/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "27571",
+      "name": "貪欲なカエル",
+      "image": "https://img.gamemonetize.com/x7geqst6f6c477ylcmibsmjmpbc11mv2/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "27570",
+      "name": "スーパーアーチャーの楽しみ",
+      "image": "https://img.gamemonetize.com/iqz8ya4c0yu1f5bhvn7a9afx392p3ec5/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "27569",
+      "name": "最強のボクサー",
+      "image": "https://img.gamemonetize.com/8xwc0qmla9qi1s9f9rvx6zt9j0ds2dlz/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "27568",
+      "name": "戦場の衝突",
+      "image": "https://img.gamemonetize.com/5x1ls8rfaqtnjfl4ie7drrv6wob27kzn/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "27567",
+      "name": "アーチェリーカウボーイ",
+      "image": "https://img.gamemonetize.com/8e2uboysjrvg610vm8j6d4ojw5u79emw/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "27565",
+      "name": "クレイジーバイクファン",
+      "image": "https://img.gamemonetize.com/ym5taplyepdcw1dsk689mm7v1vvlghtc/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "27564",
+      "name": "走るチキン",
+      "image": "https://img.gamemonetize.com/3953bz5scqmb8kvruom72s4ez17kq1r6/512x384.jpg",
+      "categoryId": 1
+    }
+  ]
+}

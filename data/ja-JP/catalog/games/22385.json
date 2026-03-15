@@ -1,0 +1,10 @@
+{
+  "id": "22385",
+  "name": "スティックトゥイット！",
+  "image": "https://img.gamemonetize.com/gex4b6b3as69hgv3bsmdf2vlqdddukj2/512x384.jpg",
+  "gameUrl": "https://html5.gamemonetize.com/gex4b6b3as69hgv3bsmdf2vlqdddukj2/",
+  "description": "ノートブックに描かれた様々なレベルを通り抜ける棒人間になってプレイします。",
+  "categoryId": 5,
+  "instructions": "- WASDで移動 - スペースでジャンプ - マウスで描画 - Pで現在のフェーズをリセット - Lで現在のレベルをリセット - 1 2 3 4で対応するフェーズのマップを表示",
+  "tags": "スティックマン"
+}

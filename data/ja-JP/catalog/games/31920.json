@@ -1,0 +1,10 @@
+{
+  "id": "31920",
+  "name": "ウトカクラッシュ",
+  "image": "https://img.gamemonetize.com/zmxjbnv63ylnzq5qvynsjj9e9h9c5mqr/512x384.jpg",
+  "gameUrl": "https://html5.gamemonetize.com/zmxjbnv63ylnzq5qvynsjj9e9h9c5mqr/",
+  "description": "ウトカクラッシュはファーストパーソンシューターゲームで、トーナメントデスマッチが特徴です。ミッションは、マップ上に散らばる武器を見つけて、ボットを撃ち、与えられた数のフラグを獲得して次のレベルに進むことです。",
+  "categoryId": 4,
+  "instructions": "WASD - 移動 LMB - 射撃 RMB - 照準フラッシュライト Space - ジャンプ R - 装填 G - 手榴弾 F - 使用 C - しゃがむ",
+  "tags": "3D, 3D Games, Action, First Person Shooter, Gun, Shoot, Shoot 'Em Up, Shooter, Shooting, Unity3D, WebGL"
+}

@@ -1,0 +1,157 @@
+{
+  "category": {
+    "id": 4,
+    "name": "Shooting",
+    "alias": "shooting",
+    "count": 300
+  },
+  "page": 8,
+  "totalPages": 13,
+  "totalItems": 300,
+  "items": [
+    {
+      "id": "30537",
+      "name": "Grand Skibidi Town",
+      "image": "https://img.gamemonetize.com/lapi8m2ozqd1lnk9a582ew9hvggcu7u8/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "30531",
+      "name": "Tank Sniper 3D",
+      "image": "https://img.gamemonetize.com/8l8z2va227lgfnrkqrgd6mib6xpzlh5z/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "30472",
+      "name": "Hot Girl Shooter",
+      "image": "https://img.gamemonetize.com/31lgegym60ey47s6ot8w763s8ism8j6j/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "30449",
+      "name": "Magical Archer",
+      "image": "https://img.gamemonetize.com/snyx35svpq1e0s7354g7c4chq8ofuabi/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "30426",
+      "name": "Shoot Block Rush 3D",
+      "image": "https://img.gamemonetize.com/iqe4no55e9i6pvg1eaqct96e3xoo6d4c/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "30424",
+      "name": "Crime Theft Gangster Paradise",
+      "image": "https://img.gamemonetize.com/z5py0263ltj5xsk4bqvnzqce21pra5da/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "30413",
+      "name": "Hawkeye Sniper",
+      "image": "https://img.gamemonetize.com/mtdepw7ngtwtvfy3348x68n1hihtopc7/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "30396",
+      "name": "Deform It",
+      "image": "https://img.gamemonetize.com/cnrxdusp5voxrfahhgtyme4twzz0o4u6/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "30394",
+      "name": "Telekinesis Attack",
+      "image": "https://img.gamemonetize.com/mdwhevqlrf9seap60s9gr6bbl18njy4u/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "30393",
+      "name": "Backrooms: Skibidi Shooter",
+      "image": "https://img.gamemonetize.com/upfnrhlbt1moynrycl070zdkuj602pvm/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "30368",
+      "name": "Thomas Runner",
+      "image": "https://img.gamemonetize.com/vawfi05aa5yrj0czd4mlmxvttep92ngd/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "30323",
+      "name": "operation Thunderstrike",
+      "image": "https://img.gamemonetize.com/cnit0h0j4yxj12q7mkk0v38atyownjn4/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "30300",
+      "name": "Jetpack Rider",
+      "image": "https://img.gamemonetize.com/xycugfmpo73v5eh3oujbqy808hrnyx07/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "30298",
+      "name": "Tower Defense Kingdoms",
+      "image": "https://img.gamemonetize.com/sl90beby7k9mcd61gdkjskhj7qm4qaqq/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "30269",
+      "name": "Santa Stars Shooter",
+      "image": "https://img.gamemonetize.com/6j6voum4j8qmvne4suw9fhcr734ge6nb/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "30263",
+      "name": "Cameraman vs Skibidi Monster : Fun Battle",
+      "image": "https://img.gamemonetize.com/idro0bv73k70uwwenrs2mkjua5cjbci8/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "30201",
+      "name": "The Day of Zombies",
+      "image": "https://img.gamemonetize.com/lr3qt0rzp8b8f97atvaiut5as8m4icfy/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "30195",
+      "name": "Strike Galaxy Attack ",
+      "image": "https://img.gamemonetize.com/5qoll80lcrsvumk53nurp6e1j40djm16/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "30162",
+      "name": "Infantry Attack:Battle 3D FPS",
+      "image": "https://img.gamemonetize.com/foof3euvtu1r928pcec4j0vtslnqqqy6/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "30131",
+      "name": "Pirate Block Craft Monster Shooter",
+      "image": "https://img.gamemonetize.com/lhmi1jgygea8lv7arg44d30z2hnrel7p/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "30118",
+      "name": "Dead City Zombie Invasion 2023",
+      "image": "https://img.gamemonetize.com/jxdno88jafvyr9vfma8p4g8gxr8zb4tn/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "30117",
+      "name": "Skibidi Hit Master",
+      "image": "https://img.gamemonetize.com/5v5di5766lz4kax3unxtr0qqaylr4me9/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "30091",
+      "name": "Riffle Assault",
+      "image": "https://img.gamemonetize.com/008zinna5lvgtoc89x5zoau2nsr2g27t/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "30073",
+      "name": "Arsenal Online",
+      "image": "https://img.gamemonetize.com/fadsdximj0ao2vsyuswwntlarkxe1ns5/512x384.jpg",
+      "categoryId": 4
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "category": {
+    "id": 4,
+    "name": "射撃です",
+    "alias": "shooting",
+    "count": 298
+  },
+  "page": 7,
+  "totalPages": 13,
+  "totalItems": 298,
+  "items": [
+    {
+      "id": "30855",
+      "name": "レジェンズアリーナ",
+      "image": "https://img.gamemonetize.com/vnwq5a365pcffyvfzohnspbhdh29vu6k/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "30831",
+      "name": "勇気の叫びシューター",
+      "image": "https://img.gamemonetize.com/r5arihemwlm6aqs4rt8z2yhmkmbb5zw4/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "30819",
+      "name": "ゾンビクラッシュ",
+      "image": "https://img.gamemonetize.com/lf6ttexnma1ism1qkm056cfjb8dvvxi7/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "30807",
+      "name": "クラシックタンクウォーズエクストリームHD",
+      "image": "https://img.gamemonetize.com/symn69cisr0r1j9pfx6u4do3qsfht01m/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "30796",
+      "name": "スティックマンシューターブロス",
+      "image": "https://img.gamemonetize.com/4exn3rd6dienls8l86g030cqczylfalc/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "30772",
+      "name": "ナイフ投げマスター",
+      "image": "https://img.gamemonetize.com/t1783s824h69ceiigikxdoaruv2caf9t/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "30764",
+      "name": "アドバンスドエアコンバットシミュレーター",
+      "image": "https://img.gamemonetize.com/02sqp3g43g1yul7ikvuh7k1zch23s3pa/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "30761",
+      "name": "スペースシューターXR",
+      "image": "https://img.gamemonetize.com/5r71eug7xzd4sr0bexhibottckptnar4/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "30753",
+      "name": "タンクズインスペース",
+      "image": "https://img.gamemonetize.com/0iv1cgn91d4g3vys1nht57ey8s5gczc7/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "30737",
+      "name": "テールガンチャーリー",
+      "image": "https://img.gamemonetize.com/k8xhtzn14z20lv5kpcurqtxn5v2uhdst/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "30735",
+      "name": "グランニーピルズ：サボテンを守れ",
+      "image": "https://img.gamemonetize.com/gv3pxm56g11d1pr2lvikqo26ic3chm7u/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "30730",
+      "name": "マスクドスペシャルフォース",
+      "image": "https://img.gamemonetize.com/1s10wsxntjub41qo2puh7jlx3qmbvh5t/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "30717",
+      "name": "2Dゾンビエイジ",
+      "image": "https://img.gamemonetize.com/048gvkqi0fzr8s7vgtq2kw4kmmia3kvt/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "30713",
+      "name": "マインレイド",
+      "image": "https://img.gamemonetize.com/xhd8j2d0qrj2riqz1n708lo6f6leyyn5/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "30708",
+      "name": "エボリックゾンビ2",
+      "image": "https://img.gamemonetize.com/nulw6de1lveb49jba0idt8w98pbcjtlb/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "30707",
+      "name": "コブラZ.io",
+      "image": "https://img.gamemonetize.com/zq8jygdk9xuwh7puv21h1hvtn2m7xff9/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "30690",
+      "name": "アームドフォース.io",
+      "image": "https://img.gamemonetize.com/31sze1xgnq00dw16hvmett3re4q2qx9w/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "30639",
+      "name": "スキビディトイレVSカメラマンスナイパー",
+      "image": "https://img.gamemonetize.com/z92hff1p2awvhpj88z86fox8arex1a95/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "30637",
+      "name": "カウンタークラフト4",
+      "image": "https://img.gamemonetize.com/sc8t4x31jg4tb48h0ajz8lovljksu1jr/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "30596",
+      "name": "ゾンビサバイバルFPS：ディフェンスZマート",
+      "image": "https://img.gamemonetize.com/0o8izaqf1dgfgyqszj039u90a0apo95o/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "30594",
+      "name": "バトルシティオンライン",
+      "image": "https://img.gamemonetize.com/clh4isvecl4undsvzkb2z5k6jo7xw637/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "30574",
+      "name": "バブルオーシャン",
+      "image": "https://img.gamemonetize.com/c6ga66lnynydlu6ycjpl5bxlhjmhy9le/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "30537",
+      "name": "グランドスキビディータウン",
+      "image": "https://img.gamemonetize.com/lapi8m2ozqd1lnk9a582ew9hvggcu7u8/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "30531",
+      "name": "タンクスナイパー3D",
+      "image": "https://img.gamemonetize.com/8l8z2va227lgfnrkqrgd6mib6xpzlh5z/512x384.jpg",
+      "categoryId": 4
+    }
+  ]
+}

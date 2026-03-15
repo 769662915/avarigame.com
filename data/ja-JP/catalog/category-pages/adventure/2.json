@@ -1,0 +1,157 @@
+{
+  "category": {
+    "id": 2,
+    "name": "冒険です",
+    "alias": "adventure",
+    "count": 289
+  },
+  "page": 2,
+  "totalPages": 13,
+  "totalItems": 289,
+  "items": [
+    {
+      "id": "31179",
+      "name": "ヴァンパイアサバイバーズダーク",
+      "image": "https://img.gamemonetize.com/5oizge6uwba44e1em9m9tsok5k7knoxg/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "31055",
+      "name": "ドライバーゾンビエスケープ2D",
+      "image": "https://img.gamemonetize.com/pvp4gqoj5rzpahxyhbyn9artg00wbl8t/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "30936",
+      "name": "シティゾンビサバイバル2D",
+      "image": "https://img.gamemonetize.com/x6og16unfrtl0lysxhx00o33dwwh7jam/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "30348",
+      "name": "LEGストレッチデジタルサーカス3",
+      "image": "https://img.gamemonetize.com/4tdbououp3ukjjse99g1uchooauf91uu/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "30340",
+      "name": "タンクトラック輸送",
+      "image": "https://img.gamemonetize.com/8a8zdsgou4lwpsx4b2cgpfios6h8p0q3/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "30317",
+      "name": "致命会社への招待",
+      "image": "https://img.gamemonetize.com/rtf7e669gd9ccw1tkcjncyb4vmmlbs21/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "30287",
+      "name": "ボーガーズ",
+      "image": "https://img.gamemonetize.com/mdu5ueiwl6rjkw725980ug2kap3sraa4/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "30285",
+      "name": "警察車線運転",
+      "image": "https://img.gamemonetize.com/njabpms143vcnswvfgx72emtf7x89t0h/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "30226",
+      "name": "村の農場生活",
+      "image": "https://img.gamemonetize.com/fwbro63nct7si1iia09e0gn8el6ee8xh/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "30147",
+      "name": "マジックタワー",
+      "image": "https://img.gamemonetize.com/86s69hjykukvfzw769mjgg2da7uurpfl/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "30144",
+      "name": "カーラッシュファストゲーム",
+      "image": "https://img.gamemonetize.com/o3qz5blqw700khul2j2d6vm2d1nlhb3u/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "30127",
+      "name": "掘削機シミュレーター3D",
+      "image": "https://img.gamemonetize.com/7wov98mycit3fq1iqlxn1dxs020z4qnz/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "30119",
+      "name": "リアルJCB掘削機シミュレーター",
+      "image": "https://img.gamemonetize.com/lrhrhwj6zkb8o1drgkszffgv1z8k94ra/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "30098",
+      "name": "アルビンスーパーヒーロー",
+      "image": "https://img.gamemonetize.com/d0fxy3q7cp54uq299iwx76xqywvtit1x/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "30087",
+      "name": "エンカントカラーブック",
+      "image": "https://img.gamemonetize.com/kmuxtlomy1qvavnvpiac46m367fl69mc/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "30053",
+      "name": "クレイグ・オブ・ザ・クリーク 学習ボディオンライン",
+      "image": "https://img.gamemonetize.com/73ji3pqi1c0e4uki4badplna6vlph7p0/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "30049",
+      "name": "バーダビーン塗り絵ブック",
+      "image": "https://img.gamemonetize.com/eh6qu75skbbrbzlkl0wjijmz0krts3b6/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "30018",
+      "name": "ダークウォー",
+      "image": "https://img.gamemonetize.com/henzg07w9l8dgdwrqsww9xydgpz2gpcs/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "29923",
+      "name": "レトロストリートファイター",
+      "image": "https://img.gamemonetize.com/jr7roso7r39aua71aijeuxoxlgluaqku/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "29873",
+      "name": "スキビディマン：スキビディガールの捜索",
+      "image": "https://img.gamemonetize.com/6ubohjfnkghbso76xbuikm2p8ldfnklr/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "29816",
+      "name": "スペースマンエスケープアドベンチャー",
+      "image": "https://img.gamemonetize.com/xatdw0u14xo45jxir654hnif9di0qk77/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "29627",
+      "name": "バトルウォーシップアリーナ",
+      "image": "https://img.gamemonetize.com/lvpy2a5xbyd2xj8h5oeqzspfevjiuy15/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "29391",
+      "name": "ゾンビディフェンス：ウォーZサバイバル",
+      "image": "https://img.gamemonetize.com/sj7s1t0c6x9u5k021ne0tp7wi3q90b5q/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "29227",
+      "name": "オンリーアップ！パルクール",
+      "image": "https://img.gamemonetize.com/x0hb11h9lq2347nqv2kvk4bycdlxm9eb/512x384.jpg",
+      "categoryId": 2
+    }
+  ]
+}

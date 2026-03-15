@@ -1,0 +1,157 @@
+{
+  "category": {
+    "id": 1,
+    "name": "動作です",
+    "alias": "action",
+    "count": 296
+  },
+  "page": 10,
+  "totalPages": 13,
+  "totalItems": 296,
+  "items": [
+    {
+      "id": "28833",
+      "name": "デッズ・オン・ザ・ロード",
+      "image": "https://img.gamemonetize.com/vlu85s3libx4w9xxlda5rwtktzu1g8hg/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "28796",
+      "name": "パーキングスーパーカー解除スキル",
+      "image": "https://img.gamemonetize.com/b2en4jdgzx3qhbtnt2l9pbtvgnagg3ps/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "28773",
+      "name": "ガーデン・オブ・レインボーモンスターズ",
+      "image": "https://img.gamemonetize.com/5mv8c9ym2sod7trmhxna4818oyf0auxb/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "28764",
+      "name": "ファイトブロス",
+      "image": "https://img.gamemonetize.com/c0z600ozef8ao5r4r4d3nh5mzgsnab3n/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "28763",
+      "name": "彼らが来る 3Dゲーム",
+      "image": "https://img.gamemonetize.com/v3hg782f33e4eze3aivitkli2qz8cmh8/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "28743",
+      "name": "ノーブシューターゾンビ",
+      "image": "https://img.gamemonetize.com/88m7kpxmeiot3pk2m0knnzk1kfxfoion/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "28742",
+      "name": "ショートカットレースゲーム",
+      "image": "https://img.gamemonetize.com/ri07xc9oo8zl64wz6bf5fihult0o5eqz/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "28734",
+      "name": "スキビディトイレ迷路",
+      "image": "https://img.gamemonetize.com/oha7j6w9safr5whk73kmo567mtveip5t/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "28711",
+      "name": "ゾンビエリア",
+      "image": "https://img.gamemonetize.com/9n6r71bt2anodx733obqb4rtfvqi8byl/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "28710",
+      "name": "リアルな手押し車",
+      "image": "https://img.gamemonetize.com/bbxkyuh2uii2h15ex5lyv50qvxlbrpn7/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "28679",
+      "name": "ゾンビデイ",
+      "image": "https://img.gamemonetize.com/auoime421spx19so4r9bvghillz15sm8/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "28637",
+      "name": "ポリススーパーカーパーキングマニア",
+      "image": "https://img.gamemonetize.com/4g9mk8my1dstafnobami3xqn53ttnxms/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "28611",
+      "name": "タンクウォー ツープレイヤー",
+      "image": "https://img.gamemonetize.com/8d4lepf0zxvoc52dn8lrrccdie38t5ic/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "28602",
+      "name": "リコイルアリーナ1VS1",
+      "image": "https://img.gamemonetize.com/762l0g0flcv0pufi9gh4b1rd1j9zin4k/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "28599",
+      "name": "モンスタースクイッドサバイバル",
+      "image": "https://img.gamemonetize.com/a2q5eyrlp7zuinrksifmql9fcaghq8jj/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "28484",
+      "name": "ノックボールズPRO",
+      "image": "https://img.gamemonetize.com/dl90plk5qyup0nwzox437yil0bbncji5/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "28466",
+      "name": "クレイジーマイナー",
+      "image": "https://img.gamemonetize.com/gn6om0ebybhkh9g36owmr7yvnhllqlzk/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "28396",
+      "name": "スペシャルエージェント",
+      "image": "https://img.gamemonetize.com/hvcecbmcxlgv5wx174dhsv3iqqte8xzr/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "28367",
+      "name": "キャッスルウォーズモダン",
+      "image": "https://img.gamemonetize.com/rw5k5ekk03iec3i23ltx15t6xyxwtsj7/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "28366",
+      "name": "ゾンビミッション13",
+      "image": "https://img.gamemonetize.com/6q98zdles0q633z6v6nq6lkafaqmvxk3/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "28314",
+      "name": "キラーブラザーズシュート",
+      "image": "https://img.gamemonetize.com/xxecmlhx12mqfm0dmghjq192ap3jnels/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "28233",
+      "name": "ナブナブインポーター",
+      "image": "https://img.gamemonetize.com/w1voyhhgd4z7kgx9e4aid2iwjsr0qjec/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "28222",
+      "name": "155警察龍戦車ドライブ",
+      "image": "https://img.gamemonetize.com/l3axzdhmojpazkbj2cngt8l91gaf32ve/512x384.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "28165",
+      "name": "トライアキニッド",
+      "image": "https://img.gamemonetize.com/nd9piv269z3dzilndqmv8dka11yyr11q/512x384.jpg",
+      "categoryId": 1
+    }
+  ]
+}

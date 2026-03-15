@@ -1,0 +1,157 @@
+{
+  "category": {
+    "id": 5,
+    "name": "マッチマンです",
+    "alias": "stickman",
+    "count": 300
+  },
+  "page": 2,
+  "totalPages": 13,
+  "totalItems": 300,
+  "items": [
+    {
+      "id": "31431",
+      "name": "ヘックスプラネットアイドル",
+      "image": "https://img.gamemonetize.com/ov7ym4r295rq63tgqhkchxj6mh13832b/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "31379",
+      "name": "クレイジースリー",
+      "image": "https://img.gamemonetize.com/2enjk01rxovd1dm7hov47xcp1och196x/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "31343",
+      "name": "ロイヤルエリートアーチャー防衛",
+      "image": "https://img.gamemonetize.com/t6s0l5zzll8dwu50dgsi037o7sj9cga6/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "30679",
+      "name": "スティックマンベースディフェンス",
+      "image": "https://img.gamemonetize.com/10jlapj6zx3rwude8qk6mc0xhze2f5bf/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "30380",
+      "name": "ストレッチハグモンスター",
+      "image": "https://img.gamemonetize.com/wy6cwdoxnvmfqcu4cipvvvd755vvvgj2/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "30379",
+      "name": "スティックランパルクール",
+      "image": "https://img.gamemonetize.com/vlget2spakvpr60kgec5oup19mdex93p/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "30265",
+      "name": "シャドウスティックマンファイト",
+      "image": "https://img.gamemonetize.com/wu5idx0ik1b7xyqv9k7a003a71f5kf6d/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "30154",
+      "name": "スティックマンメリットバトル：アリーナ",
+      "image": "https://img.gamemonetize.com/obyhafhugknxn37yy4vsed6yknb9d6rl/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "30032",
+      "name": "Zスティックデュエルファイティング",
+      "image": "https://img.gamemonetize.com/o7tw740jgsxamrx0frgto50sxzl3w79r/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "29994",
+      "name": "スティックマンマイナー",
+      "image": "https://img.gamemonetize.com/bhyewxjcbnyu7f32233fmpk6z7kaj9n6/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "29853",
+      "name": "スティックマンホットポテト",
+      "image": "https://img.gamemonetize.com/ohvhay9yre82sin5djnn1tpddc4dqamp/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "29851",
+      "name": "マイファームエンパイア",
+      "image": "https://img.gamemonetize.com/jvki4swvrqyby0veutogi7b2bpx57c6u/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "29542",
+      "name": "スティックマン忍者：シノビの道",
+      "image": "https://img.gamemonetize.com/bbvs6yc7da25q92ogll0m4cfmuo4ymox/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "29541",
+      "name": "スティックマンフォール",
+      "image": "https://img.gamemonetize.com/4nsbkbsthace3imqxe11zdymbiwnc2bg/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "29373",
+      "name": "クラウドスタックレース3D",
+      "image": "https://img.gamemonetize.com/xpfnix9kopuvgjltnh68zj6ce4gzip0g/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "29293",
+      "name": "スキビディスティック",
+      "image": "https://img.gamemonetize.com/5zkgqwll2oosqwi47higgp0eogc03dmm/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "28658",
+      "name": "シリーアダンサー",
+      "image": "https://img.gamemonetize.com/zhthunzg2jyv86mnhyfqdbqj3n11v5wc/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "28584",
+      "name": "バーガーレース",
+      "image": "https://img.gamemonetize.com/wb48m837hvo0z4h19nznefuz0plmh3ry/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "28561",
+      "name": "パルクールスカイブロック",
+      "image": "https://img.gamemonetize.com/lvhxedowv54gpv02o3nxqcujsa6xzrlw/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "28556",
+      "name": "スティックマンロープヒーローズ",
+      "image": "https://img.gamemonetize.com/eqxf0v60oye38q5x3rdcf54caej8xwc6/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "28381",
+      "name": "キャッスルブラスター2D！（モバイル）",
+      "image": "https://img.gamemonetize.com/04sdx7rn8ka3vfbsu5o5m2jbddcwo9gm/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "28380",
+      "name": "スティックハッグィ",
+      "image": "https://img.gamemonetize.com/o11ac6k5aaojlvh37nrgbgfa5jhi2wuu/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "28346",
+      "name": "スティックマンレース3D",
+      "image": "https://img.gamemonetize.com/85mh5d73g2oawupffxxh83qw1vn1v0b1/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "28306",
+      "name": "カートンホームディフェンス",
+      "image": "https://img.gamemonetize.com/f1pch2a1jalzr97o4vdwq0ml3nx582x6/512x384.jpg",
+      "categoryId": 5
+    }
+  ]
+}

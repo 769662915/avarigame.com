@@ -1,0 +1,157 @@
+{
+  "category": {
+    "id": 2,
+    "name": "冒険です",
+    "alias": "adventure",
+    "count": 289
+  },
+  "page": 5,
+  "totalPages": 13,
+  "totalItems": 289,
+  "items": [
+    {
+      "id": "27207",
+      "name": "スーパーアーチャー：キャットキーパー",
+      "image": "https://img.gamemonetize.com/97xjkiukedu42nozszart8ep7ruf1blm/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "27103",
+      "name": "タングルファン3Dゲーム",
+      "image": "https://img.gamemonetize.com/u9ib8am14c28lxzzlcshba2x8i9q3ium/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "26976",
+      "name": "ビキニサーフィンレスキュー",
+      "image": "https://img.gamemonetize.com/ioq1zys15mh2np30dp8ifkmzbcpcpxc0/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "26966",
+      "name": "トロール泥棒 - スティックマンパズル",
+      "image": "https://img.gamemonetize.com/gj8t7sa2xmr15vi7ln5hbpmg2hkf4rgs/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "26944",
+      "name": "ブレイカーズフットボール",
+      "image": "https://img.gamemonetize.com/qacm048pxh685vegcv72lbdud8sqgw32/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "26906",
+      "name": "ワードファインダーレボリューション",
+      "image": "https://img.gamemonetize.com/xw396z9atgsw1k1sgzu36sarn4c1ezyu/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "26870",
+      "name": "エピックディフェンスクラッシュ",
+      "image": "https://img.gamemonetize.com/27urbt4pyqeqsctqutlp548ogm9a9zvr/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "26869",
+      "name": "パルクールブロック3Dゲーム",
+      "image": "https://img.gamemonetize.com/hrsxh2clxg229ty294gdlbjzeejglgmp/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "26864",
+      "name": "スパイダーマンジャンプ",
+      "image": "https://img.gamemonetize.com/4rylili651eankr8srip1bgwv6xqvvn7/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "26831",
+      "name": "ソリティア2048",
+      "image": "https://img.gamemonetize.com/9keexmu33kt0g09nk32aeox4a3b4tuzs/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "26830",
+      "name": "世界最難交通ボックス",
+      "image": "https://img.gamemonetize.com/e8w68d4gu2e1xaz3u8tnha1uiq9npp3m/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "26817",
+      "name": "B-Baller",
+      "image": "https://img.gamemonetize.com/86r4o61kc5fbzy12snc4rtdaybhpdrd9/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "26812",
+      "name": "メモリーマッチゲーム",
+      "image": "https://img.gamemonetize.com/muqts0pyi9o3j67fjlo4v1zg5q3hi5oz/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "26809",
+      "name": "キャノンボールシュート",
+      "image": "https://img.gamemonetize.com/4ca18xqypa2c1undkn8po91f2e2ridek/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "26722",
+      "name": "フリーキーモンスターラッシュ - ランニングゲーム",
+      "image": "https://img.gamemonetize.com/xxrll0he6vfm1jri89qrrtus3jr606z4/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "26720",
+      "name": "宝探しアドベンチャー",
+      "image": "https://img.gamemonetize.com/9ge0b4vydmzi3jc3j3ltjmvnxeefz4ba/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "26706",
+      "name": "風船クリエイターゲーム",
+      "image": "https://img.gamemonetize.com/mdzthfygegrdo4rh8dtevfoigrqrq60v/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "26702",
+      "name": "フィットザファット",
+      "image": "https://img.gamemonetize.com/349zya0fti53lhg147zlp9oz9z8dz9yh/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "26645",
+      "name": "アムオングダンジョン",
+      "image": "https://img.gamemonetize.com/ahmryzr669sk4e9yur458nw0kpxxhvh4/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "26644",
+      "name": "インプスターエスケープを手伝う",
+      "image": "https://img.gamemonetize.com/jo8g2jlnkj0prq5upba4zvfl4nix7cll/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "26628",
+      "name": "インクインタトゥー",
+      "image": "https://img.gamemonetize.com/1x4xoqguy3pbm3ah19631sr28nb0cbyf/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "26627",
+      "name": "描いて殺す",
+      "image": "https://img.gamemonetize.com/p3o8y66xocezsbd2q1a0t1jvfvqcghhx/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "26619",
+      "name": "戦空飛行機",
+      "image": "https://img.gamemonetize.com/g6pvqwit8sdi0hmkndlrzsvogqimzdaz/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "26602",
+      "name": "キツネ・ゼンコアドベンチャーゲーム",
+      "image": "https://img.gamemonetize.com/2jk2mkem3zsi6o2th0k89wk98l126pjz/512x384.jpg",
+      "categoryId": 2
+    }
+  ]
+}

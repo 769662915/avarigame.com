@@ -1,0 +1,157 @@
+{
+  "category": {
+    "id": 5,
+    "name": "マッチマンです",
+    "alias": "stickman",
+    "count": 300
+  },
+  "page": 3,
+  "totalPages": 13,
+  "totalItems": 300,
+  "items": [
+    {
+      "id": "28091",
+      "name": "スティックマンブラザーズネザーパルクール",
+      "image": "https://img.gamemonetize.com/2hn3nxkg226d5rhz34w1l9xpww3nqxqb/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "28035",
+      "name": "フリーライダーHD",
+      "image": "https://img.gamemonetize.com/r4n3fj7vabu6r7lq074lbmv08dwxzn5s/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "27827",
+      "name": "スティックマンピッカーマスター",
+      "image": "https://img.gamemonetize.com/7gixrhuo4ds5dwvzbq0kba17tmyzvu5i/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "27730",
+      "name": "エレクトリックマン",
+      "image": "https://img.gamemonetize.com/6j4l38n2p7dvoa2e7vpnaq18bd5l2dn9/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "27511",
+      "name": "スティックヒーローマイティタワーウォーズ",
+      "image": "https://img.gamemonetize.com/bool4l7blab69un3vnflwmazr8l5i31t/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "27461",
+      "name": "スティックマンウィック",
+      "image": "https://img.gamemonetize.com/g6jvlpv08fpnk5eqzbm8l9vzga5foo6u/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "27340",
+      "name": "フルーツニンジャヒーロー",
+      "image": "https://img.gamemonetize.com/7begeu56olpka4kaqzioeq7wok1m90ip/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "27304",
+      "name": "スティックディフェンダーズ：マージゲーム",
+      "image": "https://img.gamemonetize.com/p4k54xth404myufwjrrjdm769zici6i4/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "27244",
+      "name": "スティックディフェンダーズ",
+      "image": "https://img.gamemonetize.com/zzkyrdhl0zf2qhzpm314c2cqet5tt2ck/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "27164",
+      "name": "スティックマンバレットラグドール",
+      "image": "https://img.gamemonetize.com/qjyw0g6oc9e8v8dsawxkupjoqe3liu62/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "27065",
+      "name": "クレイジースティックマンエスケープ",
+      "image": "https://img.gamemonetize.com/7ki9efve23zgbq5uyr8m2zcobmfihnhx/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "27054",
+      "name": "アルファプッシャー",
+      "image": "https://img.gamemonetize.com/8sgag4s2ofnzk597n4oywb8jt0vsne8h/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "27002",
+      "name": "スティックマンヒーロー",
+      "image": "https://img.gamemonetize.com/imwsoj6dod2izstzsmsr9uu0asegbc8k/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "26964",
+      "name": "トロール泥棒",
+      "image": "https://img.gamemonetize.com/3hju9vjcgd7lhodz6sibdcclmiwdv7qw/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "26796",
+      "name": "スティックマージバトル",
+      "image": "https://img.gamemonetize.com/u6of6a36ydxbzdowpmfz4qyzmkrg7yi1/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "26768",
+      "name": "マスゲート",
+      "image": "https://img.gamemonetize.com/yxxc09r13wh203oqegyfcqqjp96en6bg/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "26459",
+      "name": "スティックマンアーチャー5",
+      "image": "https://img.gamemonetize.com/sn2uell0ms2xn1vlo9enfpcone7oxbjz/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "26453",
+      "name": "スティックマンパルクールクラフト",
+      "image": "https://img.gamemonetize.com/6dy2yj5e4n8bufx8dx6n13nf5go8vfsz/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "26350",
+      "name": "ファイトスティックマン",
+      "image": "https://img.gamemonetize.com/35vohyrh9uqn09vtuneui4q71htmc8p2/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "26235",
+      "name": "スティックデュエル：バトルヒーロー",
+      "image": "https://img.gamemonetize.com/x35agfe0skor40ub8c9u6d7gl8z8wou8/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "26133",
+      "name": "スティックウォーズ3D",
+      "image": "https://img.gamemonetize.com/ary35ruz1suwitgap7mbnhwjwmwg00ld/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "26116",
+      "name": "スティックマンアイドルクリッカーマイナー：私たちの中のインポスター",
+      "image": "https://img.gamemonetize.com/wm39u7ou2xd1bhemxh1953aw109nxlh2/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "25899",
+      "name": "ハッギーウッギーアーチャー",
+      "image": "https://img.gamemonetize.com/ee8heo4jj52c4qa5bdtyz947py3cfluf/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "25881",
+      "name": "描いてスティックマンを守れ",
+      "image": "https://img.gamemonetize.com/fei5ffz1h2tgtxaijdmfcd8gk0puw7ia/512x384.jpg",
+      "categoryId": 5
+    }
+  ]
+}

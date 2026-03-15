@@ -1,0 +1,157 @@
+{
+  "category": {
+    "id": 2,
+    "name": "冒険です",
+    "alias": "adventure",
+    "count": 289
+  },
+  "page": 9,
+  "totalPages": 13,
+  "totalItems": 289,
+  "items": [
+    {
+      "id": "24835",
+      "name": "数独ゲーム",
+      "image": "https://img.gamemonetize.com/eq71s0yfpagfhakn0byg77f7vlfm0c8r/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "24752",
+      "name": "サーファーを描けゲーム",
+      "image": "https://img.gamemonetize.com/aun5e95mft6dlndd98uofuhvb575x8en/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "24750",
+      "name": "巨人レース3D",
+      "image": "https://img.gamemonetize.com/j6dfisini45uufileciyt4qjxljhubhl/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "24726",
+      "name": "おじさんを救え",
+      "image": "https://img.gamemonetize.com/sx0zudhjfyry6ae7ohodpybh3iez1e66/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "24723",
+      "name": "コンダクト・ディス",
+      "image": "https://img.gamemonetize.com/wa9gebfn9xvfcyj29kcsypoxgzkd872q/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "24675",
+      "name": "ターゲットヒット3D",
+      "image": "https://img.gamemonetize.com/qxnmdqlvmlb2wyn6msipu9fcnuz3t0ul/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "24656",
+      "name": "ハロウィンゲームズ",
+      "image": "https://img.gamemonetize.com/h4e5i3rwr9ullfg9350kzvrsenc2i3t0/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "24608",
+      "name": "アイアンスナウト - ファイティングゲーム",
+      "image": "https://img.gamemonetize.com/c5i34fdv6uy2e041roqidzp0erxqwqo5/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "24597",
+      "name": "ハウスローバー - ロバション・ボブ",
+      "image": "https://img.gamemonetize.com/k4rrrpkd9oui5m12c4c6r3ppeazs3pqq/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "24294",
+      "name": "ドライビングパーキングマスター - Dr Parking",
+      "image": "https://img.gamemonetize.com/wdujq6zxbwzhrpeguyat0yitem75di45/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "24263",
+      "name": "ジョーカーは誰？ - Who Is The Joker?",
+      "image": "https://img.gamemonetize.com/pth9rd10qn3y5eg5kq7v05wke684cn6k/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "24236",
+      "name": "空手ボーイ - Karate Boy",
+      "image": "https://img.gamemonetize.com/bn5wchk31nydujq3ni428bpzp1eng4dp/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "24224",
+      "name": "ポピーのダンジョン - Poppy Dungeons",
+      "image": "https://img.gamemonetize.com/sv4ex0rcrwoxnvl6nzvas5ibn38z7b8n/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "24198",
+      "name": "2048ボール - 2048 Balls",
+      "image": "https://img.gamemonetize.com/3ast8g1b91pva2wzn83wgtmipkejdllt/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "24162",
+      "name": "マスターフォーリングダウンゲーム - Master Fall Down Game",
+      "image": "https://img.gamemonetize.com/csgje0ro1ef68mfx9ag93fq8qdptyur3/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "24103",
+      "name": "バトルフィールドエリート3D - Battlefield Elite 3D",
+      "image": "https://img.gamemonetize.com/9urd2sprcg2cvcvg0nrmmk2wcxozli2k/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "24102",
+      "name": "サムライフラッシュ3D - Samurai Flash 3D",
+      "image": "https://img.gamemonetize.com/jpq431zlvg1ghurraejh5dizzb24e4rz/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "24090",
+      "name": "フライデーナイトファンキンオンライン",
+      "image": "https://img.gamemonetize.com/otsz45if9cwsklzm5slw1ficefz5yz0v/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "24022",
+      "name": "スーパータワーウォー",
+      "image": "https://img.gamemonetize.com/jrr7acndi8zfc70i0cf0y5m74nci4zmm/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "24021",
+      "name": "バカなゾンビゲーム",
+      "image": "https://img.gamemonetize.com/w40uqcj11jyv8bbtwwhm77jttlo31h13/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "24018",
+      "name": "バズーカボーイアドベンチャー",
+      "image": "https://img.gamemonetize.com/xl469cxrtiy9nok2s30y25llty5mkoa5/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "24017",
+      "name": "ブルムギロケットゲーム",
+      "image": "https://img.gamemonetize.com/830q4dkk2atk7t6ioitf7qg3siq4d5w6/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "23981",
+      "name": "エクストリームジェリーシフト3Dゲーム",
+      "image": "https://img.gamemonetize.com/8v7ijxx38ysk36xszqghgk4uml6law2e/512x384.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "23954",
+      "name": "ミニサバイバルチャレンジ",
+      "image": "https://img.gamemonetize.com/igozh959q4qhyl8kcxgnq3nrrkpdk1kj/512x384.jpg",
+      "categoryId": 2
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "category": {
+    "id": 4,
+    "name": "射撃です",
+    "alias": "shooting",
+    "count": 298
+  },
+  "page": 2,
+  "totalPages": 13,
+  "totalItems": 298,
+  "items": [
+    {
+      "id": "32903",
+      "name": "エージェントハントヒットマンシューター",
+      "image": "https://img.gamemonetize.com/8ehrwxvrxm0t64hct5wbk5cjzf4vkaj7/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "32892",
+      "name": "スプランキーアイランドサバイバルシューティング",
+      "image": "https://img.gamemonetize.com/7liinqcjnowez1fprit93jaisys36v9c/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "32884",
+      "name": "ゼンドボマー",
+      "image": "https://img.gamemonetize.com/z5833fe0q3azlad5wdesjowhvt0s09p8/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "32874",
+      "name": "スプランキーを狩る",
+      "image": "https://img.gamemonetize.com/7a6yjz9jodzdw4hezjbyewgbvx2b8s33/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "32833",
+      "name": "スプランキーギャングスターマフィア",
+      "image": "https://img.gamemonetize.com/1vt26jr3umykqy3puvjfo65116uue6em/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "32809",
+      "name": "狙撃ショット：迷彩敵",
+      "image": "https://img.gamemonetize.com/okhzhykl4c44o92f2ojcsac8c9oteujs/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "32779",
+      "name": "暴力的なシューター",
+      "image": "https://img.gamemonetize.com/jjddtwyiaognc6ay1ddfv7ltdbdfcnun/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "32763",
+      "name": "カウボーイサバイバルゾンビ",
+      "image": "https://img.gamemonetize.com/r0fkcmgbqnoa1v94n4kp2mblrv7ug3ng/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "32759",
+      "name": "ブリックブレイカーボール",
+      "image": "https://img.gamemonetize.com/xg9x94wxgkn2jzndhoielaq4b7jvsxap/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "32704",
+      "name": "ゾンビサバイバルエスケープUSA",
+      "image": "https://img.gamemonetize.com/w9h0ox73ecodjfss7y26nqxyrntaz37c/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "32689",
+      "name": "エネミーエアショット",
+      "image": "https://img.gamemonetize.com/yh3wzyq425bal5d753p5fl0or0itaj8e/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "32658",
+      "name": "伝説のアーチャー",
+      "image": "https://img.gamemonetize.com/2it7k4kwlr2u5riz24f2no7tt5tymf16/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "32645",
+      "name": "アストロデストロイヤー",
+      "image": "https://img.gamemonetize.com/fkl51gyhmd5ldbn918v8xs72gpaolbwn/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "32637",
+      "name": "ウォーマシン",
+      "image": "https://img.gamemonetize.com/6oksnxniq3756mkszruc2sj8f6oh6o80/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "32632",
+      "name": "ポピーストライク4",
+      "image": "https://img.gamemonetize.com/vel5s0zugcbmee6ctd22fw9c2arhxc5y/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "32627",
+      "name": "ザ・ファミリーエミュレーター",
+      "image": "https://img.gamemonetize.com/mxbhyq32iy62brxws76e6fhu80e1a97s/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "32614",
+      "name": "ダイノハイドナシュット",
+      "image": "https://img.gamemonetize.com/v95y3tnx0r9zhi5d47d10g3wkvr6d8s9/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "32610",
+      "name": "スペースアタックギャラクシー",
+      "image": "https://img.gamemonetize.com/9lv5fglvxgqjer5y5i3fxvh2n81vm8qv/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "32601",
+      "name": "シュートランモンスターハンティング",
+      "image": "https://img.gamemonetize.com/y0w71ih9pfamj46q2kcmi17qk6kgnbd2/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "32588",
+      "name": "撃つか死ぬか2",
+      "image": "https://img.gamemonetize.com/ukbk4jku1j6wy3xfaoe2lorm2vjwoeoj/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "32572",
+      "name": "スーパーファイティングロボット",
+      "image": "https://img.gamemonetize.com/2osm6evgwmocg3c9c8ezcql0pyem14h3/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "32528",
+      "name": "メタルシューターブラザースクワッド",
+      "image": "https://img.gamemonetize.com/as4yihf49vvpozd9qn4l6tnxv10fmfvq/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "32521",
+      "name": "エイリアンバスター",
+      "image": "https://img.gamemonetize.com/xvuzcyxxdd4wtc95j2kxe6afp4tppwio/512x384.jpg",
+      "categoryId": 4
+    },
+    {
+      "id": "32507",
+      "name": "スーパーゾンビシューター",
+      "image": "https://img.gamemonetize.com/agrrgb6ibm88hhvw2b9qu8sgb1ome9pm/512x384.jpg",
+      "categoryId": 4
+    }
+  ]
+}

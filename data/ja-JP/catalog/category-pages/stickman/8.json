@@ -1,0 +1,157 @@
+{
+  "category": {
+    "id": 5,
+    "name": "マッチマンです",
+    "alias": "stickman",
+    "count": 300
+  },
+  "page": 8,
+  "totalPages": 13,
+  "totalItems": 300,
+  "items": [
+    {
+      "id": "13763",
+      "name": "スティックマンマスターボウ",
+      "image": "https://img.gamemonetize.com/vwygeka3gdnm5ij3rg2801ghy1nutq1y/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "13762",
+      "name": "トーキングピエールバーディー",
+      "image": "https://img.gamemonetize.com/e3f3vd644cnqij346fsva5yin00cya4d/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "13682",
+      "name": "スティックマンチームフォース2",
+      "image": "https://img.gamemonetize.com/3pai69edhoh1b0df21v1nblimkrwpdw7/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "13316",
+      "name": "スティックマンボクシングKOチャンピオン",
+      "image": "https://img.gamemonetize.com/3xilpgzu6khthlqjug0ldfp7ley5mh1p/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "13199",
+      "name": "スティックドール2：炎の復讐",
+      "image": "https://img.gamemonetize.com/qdjanxft2zdc9plo553j6jirnoat1ahs/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "13185",
+      "name": "タイディングクロス3D",
+      "image": "https://img.gamemonetize.com/tppncb7t3ityie5tx4je7dk33tk376b0/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "13103",
+      "name": "ガムボールスイングアウト",
+      "image": "https://img.gamemonetize.com/es1gzxzgbul2hy9w2d468rewxoslng11/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "13056",
+      "name": "スティックマンファイタートレーニングキャンプ3",
+      "image": "https://img.gamemonetize.com/h1pritb3t20xlv5v0qdzqrwb6g1u0evi/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "12965",
+      "name": "スティックマンファイターメガ",
+      "image": "https://img.gamemonetize.com/922kbpt19j0uxvfelvhp10dlrxc1m8ev/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "12964",
+      "name": "スティックマンマーベリック",
+      "image": "https://img.gamemonetize.com/jgay8b10x9uu5q5svqcf9qnky5dipex9/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "12963",
+      "name": "スティックマンラン2",
+      "image": "https://img.gamemonetize.com/756x6uxjzr8tcd9fww1lts0b6s2aanri/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "12959",
+      "name": "パルクール",
+      "image": "https://img.gamemonetize.com/ixoaeytmcwqaztblvfervx39mtqq9l8r/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "12815",
+      "name": "サブウェイバットマンランナー",
+      "image": "https://img.gamemonetize.com/fas9ohzwnmddmffkzex9u7joujpdaq4q/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "12789",
+      "name": "酔っ払い綱引き戦争",
+      "image": "https://img.gamemonetize.com/oqtprbfdn87x5o76wavykkrgqewfon3c/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "12644",
+      "name": "スティックマンウォー2022",
+      "image": "https://img.gamemonetize.com/39cxr2krgimc51vbjdzt24dsf9aefcaj/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "12388",
+      "name": "スティックマンライトアップ",
+      "image": "https://img.gamemonetize.com/2xz68iinajvcvg22u7eqxh0ts73i81ib/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "12254",
+      "name": "サンドマンピクセルレース3D",
+      "image": "https://img.gamemonetize.com/cnx942poptycuevtr2xb14kgecsv64ej/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "12193",
+      "name": "ファイルマインクラフトランナー",
+      "image": "https://img.gamemonetize.com/0lhw388c6jm1nlfk6yyoe49bg0oobikc/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "12178",
+      "name": "スティックメンカラーランスイッチ",
+      "image": "https://img.gamemonetize.com/rrsnhq3gqodf0rfc59mbxu6hyqg7ls8c/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "12159",
+      "name": "スティックマンレース",
+      "image": "https://img.gamemonetize.com/1hyp6oziicdyk81dfw2g83xx95x7h29i/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "11971",
+      "name": "ロープスラッシュ：ボウマスター",
+      "image": "https://img.gamemonetize.com/osp9n3muabru79fygq1l2wu1ngjorp2f/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "11916",
+      "name": "スティックマンカウンターテロシューター",
+      "image": "https://img.gamemonetize.com/yo64nft072vj0fhpg3ft42uvjgtrrxrq/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "11887",
+      "name": "アーミースティックソルジャー",
+      "image": "https://img.gamemonetize.com/boinh33lamjqvj38r8e7zbt1qmmwo2e0/512x384.jpg",
+      "categoryId": 5
+    },
+    {
+      "id": "11886",
+      "name": "ベイビーシャークゲームオンライン",
+      "image": "https://img.gamemonetize.com/22e8v43oiq652lcby6hus42owoim4du7/512x384.jpg",
+      "categoryId": 5
+    }
+  ]
+}
