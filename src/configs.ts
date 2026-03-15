@@ -18,6 +18,9 @@ export interface CategoryTheme {
 
 export const ADSENSE_CLIENT = "ca-pub-3134621309166831";
 
+export const TIKTOK_PIXEL_ID = process.env.NEXT_PUBLIC_TIKTOK_PIXEL_ID?.trim() ?? "";
+export const TIKTOK_CONTENT_ID = process.env.NEXT_PUBLIC_TIKTOK_CONTENT_ID?.trim() ?? "";
+
 export const ADSENSE_SLOTS = {
   homeBanner: "6284681907",
   detailRecommend: "8957747591",

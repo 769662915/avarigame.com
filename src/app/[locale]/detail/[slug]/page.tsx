@@ -1,4 +1,3 @@
-import dynamic from "next/dynamic";
 import Image from "next/image";
 import { getTranslations } from "next-intl/server";
 import { Suspense } from "react";
@@ -22,6 +21,7 @@ import {
   getStaticLocales,
 } from "@/actions";
 import Footer from "@/components/footer";
+import ElTemplate from "@/components/el-temlplate";
 import GameItem from "@/components/game-item";
 import Header from "@/components/header";
 import Info from "@/components/info";
@@ -30,8 +30,6 @@ import StarRating from "@/components/star-rating";
 import { ADSENSE_CLIENT, ADSENSE_SLOTS, getCategoryTheme } from "@/configs";
 import { Locale } from "@/i18n/routing";
 import { getTargetHref, sanitizeGameDescription } from "@/utils";
-
-const ElTemplate = dynamic(() => import("@/components/el-temlplate"), { ssr: false });
 
 interface Props {
   params: {

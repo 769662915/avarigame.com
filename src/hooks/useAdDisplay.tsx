@@ -1,113 +1,163 @@
-import { useEffect, useRef } from "react";
+import { RefObject, useEffect, useRef } from "react";
 
-// Custom hook to monitor ad display status and iframe visibility with a countdown
-const useAdDisplay = (selector: string) => {
-  const timeoutIdRef = useRef<NodeJS.Timeout | null>(null);
-  const remainingTimeRef = useRef<number>(1000); // Initial countdown time in milliseconds
+import { trackTikTokEvent } from "@/utils/track-tiktok";
+
+export type AdDisplayStatus = "pending" | "filled" | "unfilled";
+
+// Monitor ad fill state and count a view only after the iframe stays visible long enough.
+const useAdDisplay = (
+  adRef: RefObject<HTMLElement>,
+  onStatusChange?: (status: AdDisplayStatus) => void
+) => {
+  const timeoutIdRef = useRef<number | null>(null);
+  const remainingTimeRef = useRef<number>(1000);
   const startTimestampRef = useRef<number | null>(null);
   const intersectionObserverRef = useRef<IntersectionObserver | null>(null);
   const mutationObserverRef = useRef<MutationObserver | null>(null);
+  const trackedViewRef = useRef(false);
 
   useEffect(() => {
-    const el = document.querySelector(selector);
-    if (!el) return;
+    const el = adRef.current;
+    if (!el) {
+      return;
+    }
 
-    const handleMutation = (mutationsList: MutationRecord[]) => {
-      for (const mutation of mutationsList) {
-        if (
-          mutation.type === "attributes" &&
-          mutation.attributeName === "data-ad-status"
-        ) {
-          const status = (mutation.target as HTMLElement).getAttribute(
-            "data-ad-status"
-          );
-          if (status === "filled") {
-            const iframe = el.querySelector("iframe");
-            if (iframe) {
-              setupIntersectionObserver(iframe);
-            }
-            mutationObserverRef.current?.disconnect();
-          }
-          break;
-        }
+    const clearCountdown = () => {
+      if (timeoutIdRef.current !== null) {
+        window.clearTimeout(timeoutIdRef.current);
+        timeoutIdRef.current = null;
       }
+      startTimestampRef.current = null;
+      remainingTimeRef.current = 1000;
     };
 
-    const setupIntersectionObserver = (iframe: HTMLIFrameElement) => {
-      intersectionObserverRef.current = new IntersectionObserver((entries) => {
-        entries.forEach((entry) => {
-          if (entry.isIntersecting) {
-            startCountdown(iframe);
-          } else {
-            pauseCountdown();
-          }
-        });
-      }, { threshold: 0.1 });
+    const cleanupIntersection = () => {
+      clearCountdown();
+      intersectionObserverRef.current?.disconnect();
+      intersectionObserverRef.current = null;
+    };
 
-      intersectionObserverRef.current.observe(iframe);
+    const getStatus = () => {
+      const status = el.getAttribute("data-ad-status");
+
+      if (status === "filled" || status === "unfilled") {
+        return status;
+      }
+
+      return "pending";
+    };
+
+    const syncStatus = () => {
+      const status = getStatus();
+      onStatusChange?.(status);
+      return status;
+    };
+
+    const onCountdownEnd = (iframe: HTMLIFrameElement) => {
+      if (!trackedViewRef.current && iframe.getAttribute("src")) {
+        trackTikTokEvent("ViewContent");
+        trackedViewRef.current = true;
+      }
+      cleanupIntersection();
     };
 
     const startCountdown = (iframe: HTMLIFrameElement) => {
+      if (timeoutIdRef.current !== null || trackedViewRef.current) {
+        return;
+      }
+
       startTimestampRef.current = Date.now();
-      timeoutIdRef.current = setTimeout(() => {
+      timeoutIdRef.current = window.setTimeout(() => {
         onCountdownEnd(iframe);
       }, remainingTimeRef.current);
     };
 
     const pauseCountdown = () => {
-      if (timeoutIdRef.current) {
-        clearTimeout(timeoutIdRef.current);
-        timeoutIdRef.current = null;
-        if (startTimestampRef.current) {
-          remainingTimeRef.current -= Date.now() - startTimestampRef.current;
-          startTimestampRef.current = null;
+      if (timeoutIdRef.current === null) {
+        return;
+      }
+
+      window.clearTimeout(timeoutIdRef.current);
+      timeoutIdRef.current = null;
+
+      if (startTimestampRef.current !== null) {
+        remainingTimeRef.current = Math.max(
+          0,
+          remainingTimeRef.current - (Date.now() - startTimestampRef.current)
+        );
+      }
+
+      startTimestampRef.current = null;
+    };
+
+    const setupIntersectionObserver = () => {
+      if (intersectionObserverRef.current || trackedViewRef.current) {
+        return;
+      }
+
+      const iframe = el.querySelector("iframe");
+      if (!(iframe instanceof HTMLIFrameElement)) {
+        return;
+      }
+
+      intersectionObserverRef.current = new IntersectionObserver(
+        (entries) => {
+          entries.forEach((entry) => {
+            if (entry.isIntersecting) {
+              startCountdown(iframe);
+              return;
+            }
+
+            pauseCountdown();
+          });
+        },
+        { threshold: 0.1 }
+      );
+
+      intersectionObserverRef.current.observe(iframe);
+    };
+
+    const handleMutation = (mutationsList: MutationRecord[]) => {
+      for (const mutation of mutationsList) {
+        if (mutation.type === "attributes" && mutation.attributeName === "data-ad-status") {
+          const status = syncStatus();
+
+          if (status === "filled") {
+            setupIntersectionObserver();
+          } else if (status === "unfilled") {
+            cleanupIntersection();
+          }
+
+          continue;
+        }
+
+        if (mutation.type === "childList" && getStatus() === "filled") {
+          setupIntersectionObserver();
         }
       }
     };
 
-    const onCountdownEnd = (iframe: HTMLIFrameElement) => {
-      const adContainer = document.querySelector(selector);
-      if (adContainer) {
-        const iframeSrc = iframe.getAttribute("src");
-        if (iframeSrc) {
-          // const formatIframeSrc = new URL(iframeSrc);
-          // const iframeSearchParams = new URLSearchParams(formatIframeSrc.search);
-          // window.umami.track((props) => ({
-          //   ...props,
-          //   name: "adView",
-          //   data: {
-          //     adContainerId: adContainer.getAttribute("id"),
-          //     googleQueryId: iframe.getAttribute("data-google-query-id"),
-          //     adDisplayTime: Date.now(),
-          //     publisherId: iframeSearchParams.get("client"),
-          //     adk: iframeSearchParams.get("adk"),
-          //     adf: iframeSearchParams.get("adf"),
-          //     slotname: iframeSearchParams.get("slotname"),
-          //     adSize: iframeSearchParams.get("format"),
-          //   },
-          // }));
-          window.ttq.track("ViewContent");
-        }
-      }
-      cleanup();
-    };
+    syncStatus();
 
-    const cleanup = () => {
-      if (timeoutIdRef.current) {
-        clearTimeout(timeoutIdRef.current);
-      }
-      intersectionObserverRef.current?.disconnect();
-      mutationObserverRef.current?.disconnect();
-    };
+    if (getStatus() === "filled") {
+      setupIntersectionObserver();
+    }
 
     mutationObserverRef.current = new MutationObserver(handleMutation);
     mutationObserverRef.current.observe(el, {
       attributes: true,
-      attributeOldValue: true,
+      attributeFilter: ["data-ad-status"],
+      childList: true,
+      subtree: true,
     });
 
-    return cleanup;
-  }, [selector]);
+    return () => {
+      clearCountdown();
+      cleanupIntersection();
+      mutationObserverRef.current?.disconnect();
+      mutationObserverRef.current = null;
+    };
+  }, [adRef, onStatusChange]);
 
   return null;
 };

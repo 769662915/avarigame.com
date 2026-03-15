@@ -149,6 +149,20 @@ export default extendTheme({
         maxWidth: "100%",
         overflow: "hidden",
       },
+      ".ad-placeholder__label": {
+        marginBottom: "8px",
+        fontSize: "10px",
+        fontWeight: 700,
+        letterSpacing: "0.24em",
+        textTransform: "uppercase",
+        color: "rgba(232, 242, 255, 0.56)",
+      },
+      ".ad-placeholder__fallback": {
+        marginTop: "10px",
+        fontSize: "12px",
+        lineHeight: 1.6,
+        color: "rgba(232, 242, 255, 0.72)",
+      },
       ".ad-placeholder > ins": {
         display: "block",
         maxWidth: "100% !important",
@@ -156,11 +170,16 @@ export default extendTheme({
       ".ad-placeholder iframe": {
         maxWidth: "100% !important",
       },
-      ".ad-placeholder > ins[data-ad-status='unfilled']": {
-        display: "none !important",
+      ".ad-placeholder[data-ad-ui-status='filled'] .ad-placeholder__label": {
+        display: "none",
       },
-      ".ad-placeholder > ins[data-ad-status='unfilled'] + script + *": {
-        display: "none !important",
+      ".ad-placeholder[data-ad-ui-status='unfilled']": {
+        paddingBlock: "10px",
+      },
+      ".ad-placeholder[data-ad-ui-status='unfilled'] > ins": {
+        height: "0 !important",
+        minHeight: "0 !important",
+        visibility: "hidden",
       },
       "#description a": {
         color: "brand.300",

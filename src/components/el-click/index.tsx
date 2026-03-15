@@ -3,6 +3,8 @@
 import { debounce } from "lodash";
 import React, { useCallback, useEffect, useRef, useMemo } from "react";
 
+import { trackTikTokEvent } from "@/utils/track-tiktok";
+
 // 自定义的 useEffectEvent 钩子，用于添加和移除事件监听器
 function useEffectEvent(eventType: string, callback: (event: Event) => void) {
   useEffect(() => {
@@ -56,7 +58,7 @@ const ElClick: React.FC = () => {
       //     ...adData,
       //   },
       // }));
-      window.ttq.track("ClickButton");
+      trackTikTokEvent("ClickButton");
     }
   }, [collectAdData]);
 
@@ -79,7 +81,7 @@ const ElClick: React.FC = () => {
         //     ...adData,
         //   },
         // }));
-        window.ttq.track("ClickButton");
+        trackTikTokEvent("ClickButton");
         console.log(JSON.stringify(adData));
         // 使用更简洁的方式触发像素跟踪
         isBeforeUnloadHandled.current = true;

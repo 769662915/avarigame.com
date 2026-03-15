@@ -151,8 +151,9 @@ export type TrackedProperties = {
   declare global {
     interface Window {
       umami: UmamiTracker;
-      ttq: {
+      adsbygoogle?: Array<Record<string, unknown>>;
+      ttq?: {
         track: (eventName: string, data?: Record<string, unknown>) => void
-      }
+      };
     }
   }

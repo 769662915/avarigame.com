@@ -1,4 +1,3 @@
-import dynamic from "next/dynamic";
 import { getTranslations } from "next-intl/server";
 import { Suspense } from "react";
 import {
@@ -25,12 +24,11 @@ import GameList from "@/components/game-list";
 import Header from "@/components/header";
 import Info from "@/components/info";
 import SectionShell from "@/components/section-shell";
+import ElTemplate from "@/components/el-temlplate";
 import { ADSENSE_CLIENT, ADSENSE_SLOTS, getCategoryTheme, LOCALE_OPTIONS } from "@/configs";
 import { Locale } from "@/i18n/routing";
 import { getTargetHref, splitGames } from "@/utils";
 import { getBrandContext } from "@/utils/brand";
-
-const ElTemplate = dynamic(() => import("@/components/el-temlplate"), { ssr: false });
 
 interface Props {
   params: {
